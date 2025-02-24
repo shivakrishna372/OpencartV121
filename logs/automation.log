@@ -1,0 +1,1404 @@
+2025-02-10 20:14:06 [main] INFO  BaseClass - Initializing WebDriver...
+2025-02-10 20:14:09 [main] INFO  BaseClass - Browser launched and navigated to URL.
+2025-02-10 20:14:09 [main] INFO  TC001_AccountRegistrationTest - ************ Starting TC001_AccountRegistrationTest ************
+2025-02-10 20:14:09 [main] INFO  TC001_AccountRegistrationTest - Navigating to 'My Account' section.
+2025-02-10 20:14:16 [main] INFO  TC001_AccountRegistrationTest - Clicking on 'Register'.
+2025-02-10 20:14:17 [main] INFO  TC001_AccountRegistrationTest - Generated test data: 
+2025-02-10 20:14:17 [main] INFO  TC001_AccountRegistrationTest - First Name: mmoEc
+2025-02-10 20:14:17 [main] INFO  TC001_AccountRegistrationTest - Last Name: rLYNJ
+2025-02-10 20:14:17 [main] INFO  TC001_AccountRegistrationTest - Email: rpbtkes@test.com
+2025-02-10 20:14:17 [main] INFO  TC001_AccountRegistrationTest - Telephone: 6488166005
+2025-02-10 20:14:17 [main] INFO  TC001_AccountRegistrationTest - Password: cF3IfVenE1
+2025-02-10 20:14:17 [main] INFO  TC001_AccountRegistrationTest - Filling out registration form.
+2025-02-10 20:14:18 [main] INFO  TC001_AccountRegistrationTest - Verifying successful registration.
+2025-02-10 20:14:18 [main] INFO  TC001_AccountRegistrationTest - ************ Test Passed: Account registered successfully! ************
+2025-02-10 20:14:18 [main] INFO  BaseClass - Closing browser...
+2025-02-10 20:26:33 [main] INFO  BaseClass - Initializing WebDriver...
+2025-02-10 20:26:36 [main] INFO  BaseClass - Browser launched and navigated to URL.
+2025-02-10 20:26:37 [main] INFO  TC001_AccountRegistrationTest - ************ Starting TC001_AccountRegistrationTest ************
+2025-02-10 20:26:37 [main] INFO  TC001_AccountRegistrationTest - Navigating to 'My Account' section.
+2025-02-10 20:26:37 [main] INFO  TC001_AccountRegistrationTest - Clicking on 'Register'.
+2025-02-10 20:26:37 [main] INFO  TC001_AccountRegistrationTest - Generated test data: 
+2025-02-10 20:26:37 [main] INFO  TC001_AccountRegistrationTest - First Name: tTygy
+2025-02-10 20:26:37 [main] INFO  TC001_AccountRegistrationTest - Last Name: YHysd
+2025-02-10 20:26:37 [main] INFO  TC001_AccountRegistrationTest - Email: fcwryct@test.com
+2025-02-10 20:26:37 [main] INFO  TC001_AccountRegistrationTest - Telephone: 0060424237
+2025-02-10 20:26:37 [main] INFO  TC001_AccountRegistrationTest - Password: zbyNGnVr14
+2025-02-10 20:26:37 [main] INFO  TC001_AccountRegistrationTest - Filling out registration form.
+2025-02-10 20:26:39 [main] INFO  TC001_AccountRegistrationTest - Verifying successful registration.
+2025-02-10 20:26:39 [main] INFO  TC001_AccountRegistrationTest - ************ Test Passed: Account registered successfully! ************
+2025-02-10 20:26:39 [main] INFO  BaseClass - Closing browser...
+2025-02-10 20:45:24 [main] INFO  BaseClass - Initializing WebDriver...
+2025-02-10 20:45:27 [main] INFO  BaseClass - Browser launched and navigated to URL.
+2025-02-10 20:45:27 [main] INFO  BaseClass - ************ Starting TC001_AccountRegistrationTest ************
+2025-02-10 20:45:28 [main] INFO  BaseClass - Navigated to registration page.
+2025-02-10 20:45:30 [main] INFO  BaseClass - Registration form submitted.
+2025-02-10 20:45:30 [main] INFO  BaseClass - Account registration successful.
+2025-02-10 20:45:30 [main] INFO  BaseClass - Closing browser...
+2025-02-10 21:24:30 [main] INFO  BaseClass - Initializing WebDriver...
+2025-02-10 21:24:38 [main] INFO  BaseClass - Browser launched and navigated to URL.
+2025-02-10 21:24:38 [main] INFO  BaseClass - ************ Starting TC001_AccountRegistrationTest ************
+2025-02-10 21:24:39 [main] INFO  BaseClass - Navigated to registration page.
+2025-02-10 21:24:40 [main] INFO  BaseClass - Registration form submitted.
+2025-02-10 21:24:40 [main] INFO  BaseClass - Account registration successful.
+2025-02-10 21:24:40 [main] INFO  BaseClass - Closing browser...
+2025-02-10 21:25:07 [main] INFO  BaseClass - Initializing WebDriver...
+2025-02-10 21:25:18 [main] INFO  BaseClass - Browser launched and navigated to URL.
+2025-02-10 21:25:18 [main] INFO  BaseClass - ************ Starting TC001_AccountRegistrationTest ************
+2025-02-10 21:25:20 [main] INFO  BaseClass - Navigated to registration page.
+2025-02-10 21:25:22 [main] INFO  BaseClass - Registration form submitted.
+2025-02-10 21:25:22 [main] INFO  BaseClass - Account registration successful.
+2025-02-10 21:25:22 [main] INFO  BaseClass - Closing browser...
+2025-02-10 21:34:19 [TestNG-tests-3] INFO  BaseClass - Initializing WebDriver...
+2025-02-10 21:34:19 [TestNG-tests-1] INFO  BaseClass - Initializing WebDriver...
+2025-02-10 21:34:19 [TestNG-tests-2] INFO  BaseClass - Initializing WebDriver...
+2025-02-10 21:36:33 [main] INFO  BaseClass - Initializing WebDriver...
+2025-02-10 21:37:20 [main] INFO  BaseClass - Initializing WebDriver...
+2025-02-10 21:38:08 [main] INFO  BaseClass - Initializing WebDriver...
+2025-02-10 21:41:50 [main] INFO  BaseClass - Initializing WebDriver...
+2025-02-10 21:50:43 [main] INFO  BaseClass - Initializing WebDriver...
+2025-02-10 21:55:31 [main] INFO  BaseClass - Initializing WebDriver...
+2025-02-10 21:58:08 [main] INFO  BaseClass - Initializing Chrome WebDriver...
+2025-02-10 21:59:15 [main] INFO  BaseClass - Initializing Chrome WebDriver...
+2025-02-12 19:26:45 [main] INFO  BaseClass - Initializing Chrome WebDriver...
+2025-02-12 19:26:54 [main] INFO  BaseClass - Browser launched and navigated to URL.
+2025-02-12 19:26:54 [main] INFO  BaseClass - ************ Starting TC001_AccountRegistrationTest ************
+2025-02-12 19:26:55 [main] INFO  BaseClass - Navigated to registration page.
+2025-02-12 19:26:57 [main] INFO  BaseClass - Registration form submitted.
+2025-02-12 19:26:57 [main] INFO  BaseClass - Account registration successful.
+2025-02-12 19:26:57 [main] INFO  BaseClass - Closing browser...
+2025-02-12 21:15:04 [main] INFO  BaseClass - Running tests on OS: Windows
+2025-02-12 21:15:04 [main] INFO  BaseClass - Initializing WebDriver for browser: chrome
+2025-02-12 21:15:08 [main] INFO  BaseClass - Browser launched and navigated to URL.
+2025-02-12 21:15:08 [main] INFO  BaseClass - ************ Starting TC001_AccountRegistrationTest ************
+2025-02-12 21:15:09 [main] INFO  BaseClass - Navigated to registration page.
+2025-02-12 21:15:11 [main] INFO  BaseClass - Registration form submitted.
+2025-02-12 21:15:11 [main] INFO  BaseClass - Account registration successful.
+2025-02-12 21:15:11 [main] INFO  BaseClass - Closing browser...
+2025-02-12 21:15:11 [main] INFO  BaseClass - Running tests on OS: Windows
+2025-02-12 21:15:11 [main] INFO  BaseClass - Initializing WebDriver for browser: firefox
+2025-02-12 21:15:18 [main] INFO  BaseClass - Browser launched and navigated to URL.
+2025-02-12 21:15:18 [main] INFO  BaseClass - ************ Starting TC001_AccountRegistrationTest ************
+2025-02-12 21:15:19 [main] INFO  BaseClass - Navigated to registration page.
+2025-02-12 21:15:20 [main] INFO  BaseClass - Registration form submitted.
+2025-02-12 21:15:20 [main] INFO  BaseClass - Account registration successful.
+2025-02-12 21:15:20 [main] INFO  BaseClass - Closing browser...
+2025-02-12 21:15:21 [main] INFO  BaseClass - Running tests on OS: Windows
+2025-02-12 21:15:21 [main] INFO  BaseClass - Initializing WebDriver for browser: edge
+2025-02-12 21:15:33 [main] INFO  BaseClass - Browser launched and navigated to URL.
+2025-02-12 21:15:33 [main] INFO  BaseClass - ************ Starting TC001_AccountRegistrationTest ************
+2025-02-12 21:15:34 [main] INFO  BaseClass - Navigated to registration page.
+2025-02-12 21:15:36 [main] INFO  BaseClass - Registration form submitted.
+2025-02-12 21:15:36 [main] INFO  BaseClass - Account registration successful.
+2025-02-12 21:15:36 [main] INFO  BaseClass - Closing browser...
+2025-02-12 21:20:53 [TestNG-tests-3] INFO  BaseClass - Running tests on OS: Windows
+2025-02-12 21:20:53 [TestNG-tests-1] INFO  BaseClass - Running tests on OS: Windows
+2025-02-12 21:20:53 [TestNG-tests-2] INFO  BaseClass - Running tests on OS: Windows
+2025-02-12 21:20:53 [TestNG-tests-1] INFO  BaseClass - Initializing WebDriver for browser: chrome
+2025-02-12 21:20:53 [TestNG-tests-2] INFO  BaseClass - Initializing WebDriver for browser: firefox
+2025-02-12 21:20:53 [TestNG-tests-3] INFO  BaseClass - Initializing WebDriver for browser: edge
+2025-02-12 21:20:58 [TestNG-tests-1] INFO  BaseClass - Browser launched and navigated to URL.
+2025-02-12 21:20:58 [TestNG-tests-1] INFO  BaseClass - ************ Starting TC001_AccountRegistrationTest ************
+2025-02-12 21:21:01 [TestNG-tests-1] INFO  BaseClass - Navigated to registration page.
+2025-02-12 21:21:03 [TestNG-tests-3] INFO  BaseClass - Browser launched and navigated to URL.
+2025-02-12 21:21:03 [TestNG-tests-3] INFO  BaseClass - ************ Starting TC001_AccountRegistrationTest ************
+2025-02-12 21:21:05 [TestNG-tests-1] INFO  BaseClass - Registration form submitted.
+2025-02-12 21:21:05 [TestNG-tests-1] INFO  BaseClass - Account registration successful.
+2025-02-12 21:21:05 [TestNG-tests-1] INFO  BaseClass - Closing browser...
+2025-02-12 21:21:10 [TestNG-tests-3] INFO  BaseClass - Navigated to registration page.
+2025-02-12 21:21:13 [TestNG-tests-3] INFO  BaseClass - Registration form submitted.
+2025-02-12 21:21:13 [TestNG-tests-3] INFO  BaseClass - Account registration successful.
+2025-02-12 21:21:13 [TestNG-tests-3] INFO  BaseClass - Closing browser...
+2025-02-12 21:21:17 [TestNG-tests-2] INFO  BaseClass - Browser launched and navigated to URL.
+2025-02-12 21:21:17 [TestNG-tests-2] INFO  BaseClass - ************ Starting TC001_AccountRegistrationTest ************
+2025-02-12 21:21:19 [TestNG-tests-2] INFO  BaseClass - Navigated to registration page.
+2025-02-12 21:21:21 [TestNG-tests-2] INFO  BaseClass - Registration form submitted.
+2025-02-12 21:21:21 [TestNG-tests-2] INFO  BaseClass - Account registration successful.
+2025-02-12 21:21:21 [TestNG-tests-2] INFO  BaseClass - Closing browser...
+2025-02-12 21:49:32 [TestNG-tests-2] INFO  BaseClass - Running tests on OS: Windows
+2025-02-12 21:49:32 [TestNG-tests-1] INFO  BaseClass - Running tests on OS: Windows
+2025-02-12 21:49:32 [TestNG-tests-3] INFO  BaseClass - Running tests on OS: Windows
+2025-02-12 21:49:32 [TestNG-tests-2] INFO  BaseClass - Initializing WebDriver for browser: firefox
+2025-02-12 21:49:32 [TestNG-tests-3] INFO  BaseClass - Initializing WebDriver for browser: edge
+2025-02-12 21:49:32 [TestNG-tests-1] INFO  BaseClass - Initializing WebDriver for browser: chrome
+2025-02-12 21:49:35 [TestNG-tests-1] INFO  BaseClass - Browser launched and navigated to URL.
+2025-02-12 21:49:35 [TestNG-tests-1] INFO  BaseClass - ************ Starting TC001_AccountRegistrationTest ************
+2025-02-12 21:49:39 [TestNG-tests-1] INFO  BaseClass - Navigated to registration page.
+2025-02-12 21:49:40 [TestNG-tests-3] INFO  BaseClass - Browser launched and navigated to URL.
+2025-02-12 21:49:40 [TestNG-tests-3] INFO  BaseClass - ************ Starting TC001_AccountRegistrationTest ************
+2025-02-12 21:49:42 [TestNG-tests-3] INFO  BaseClass - Navigated to registration page.
+2025-02-12 21:49:43 [TestNG-tests-1] INFO  BaseClass - Registration form submitted.
+2025-02-12 21:49:44 [TestNG-tests-2] INFO  BaseClass - Browser launched and navigated to URL.
+2025-02-12 21:49:44 [TestNG-tests-2] INFO  BaseClass - ************ Starting TC001_AccountRegistrationTest ************
+2025-02-12 21:49:44 [TestNG-tests-1] INFO  BaseClass - Account registration successful.
+2025-02-12 21:49:44 [TestNG-tests-1] INFO  BaseClass - Closing browser...
+2025-02-12 21:49:45 [TestNG-tests-2] INFO  BaseClass - Navigated to registration page.
+2025-02-12 21:49:45 [TestNG-tests-3] INFO  BaseClass - Registration form submitted.
+2025-02-12 21:49:45 [TestNG-tests-3] INFO  BaseClass - Account registration successful.
+2025-02-12 21:49:45 [TestNG-tests-3] INFO  BaseClass - Closing browser...
+2025-02-12 21:49:46 [TestNG-tests-2] INFO  BaseClass - Registration form submitted.
+2025-02-12 21:49:46 [TestNG-tests-2] INFO  BaseClass - Account registration successful.
+2025-02-12 21:49:46 [TestNG-tests-2] INFO  BaseClass - Closing browser...
+2025-02-12 21:52:34 [main] INFO  BaseClass - Running tests on OS: Windows
+2025-02-12 21:52:34 [main] INFO  BaseClass - Initializing WebDriver for browser: chrome
+2025-02-12 21:52:37 [main] INFO  BaseClass - Browser launched and navigated to URL.
+2025-02-12 21:52:37 [main] INFO  BaseClass - ************ Starting TC001_AccountRegistrationTest ************
+2025-02-12 21:52:38 [main] INFO  BaseClass - Navigated to registration page.
+2025-02-12 21:52:40 [main] INFO  BaseClass - Registration form submitted.
+2025-02-12 21:52:40 [main] INFO  BaseClass - Account registration successful.
+2025-02-12 21:52:40 [main] INFO  BaseClass - Closing browser...
+2025-02-13 12:15:37 [main] INFO  BaseClass - Running tests on OS: Windows
+2025-02-13 12:15:37 [main] INFO  BaseClass - Initializing WebDriver for browser: chrome
+2025-02-13 12:15:42 [main] INFO  BaseClass - Browser launched and navigated to URL.
+2025-02-13 12:15:42 [main] INFO  BaseClass - ************* TC002_LoginTest *************
+2025-02-13 12:15:44 [main] INFO  BaseClass - ************* TC002_Login Test Completed *************
+2025-02-13 12:15:44 [main] INFO  BaseClass - Closing browser...
+2025-02-13 12:15:58 [main] INFO  BaseClass - Running tests on OS: Windows
+2025-02-13 12:15:58 [main] INFO  BaseClass - Initializing WebDriver for browser: chrome
+2025-02-13 12:16:02 [main] INFO  BaseClass - Browser launched and navigated to URL.
+2025-02-13 12:16:02 [main] INFO  BaseClass - ************* TC002_LoginTest *************
+2025-02-13 12:16:03 [main] INFO  BaseClass - ************* TC002_Login Test Completed *************
+2025-02-13 12:16:03 [main] INFO  BaseClass - Closing browser...
+2025-02-13 12:23:29 [main] WARN  TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\91701\eclipse-workspace\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+2025-02-13 12:23:29 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\91701\eclipse-workspace\OpencartV121\master.xml
+
+2025-02-13 12:23:29 [main] INFO  BaseClass - Running tests on OS: Windows
+2025-02-13 12:23:29 [main] INFO  BaseClass - Initializing WebDriver for browser: chrome
+2025-02-13 12:23:32 [main] INFO  BaseClass - Browser launched and navigated to URL.
+2025-02-13 12:23:32 [main] INFO  BaseClass - ************* TC002_LoginTest *************
+2025-02-13 12:23:34 [main] INFO  BaseClass - ************* TC002_Login Test Completed *************
+2025-02-13 12:23:34 [main] INFO  BaseClass - Closing browser...
+2025-02-13 15:37:25 [main] WARN  TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\91701\eclipse-workspace\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+2025-02-13 15:37:26 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\91701\eclipse-workspace\OpencartV121\master.xml
+
+2025-02-13 15:37:26 [main] INFO  BaseClass - Running tests on OS: Windows
+2025-02-13 15:37:26 [main] INFO  BaseClass - Initializing WebDriver for browser: chrome
+2025-02-13 15:37:31 [main] INFO  BaseClass - Browser launched and navigated to URL.
+2025-02-13 15:37:31 [main] INFO  BaseClass - Closing browser...
+2025-02-13 15:50:16 [main] WARN  TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\91701\eclipse-workspace\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+2025-02-13 15:50:16 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\91701\eclipse-workspace\OpencartV121\master.xml
+
+2025-02-13 15:50:16 [main] INFO  BaseClass - Running tests on OS: Windows
+2025-02-13 15:50:16 [main] INFO  BaseClass - Initializing WebDriver for browser: chrome
+2025-02-13 15:50:41 [main] INFO  BaseClass - Browser launched and navigated to URL.
+2025-02-13 15:50:41 [main] INFO  BaseClass - Closing browser...
+2025-02-13 20:44:15 [main] WARN  TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\91701\eclipse-workspace\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+2025-02-13 20:44:15 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\91701\eclipse-workspace\OpencartV121\master.xml
+
+2025-02-13 20:44:15 [main] INFO  BaseClass - Running tests on OS: Windows
+2025-02-13 20:44:15 [main] INFO  BaseClass - Initializing WebDriver for browser: chrome
+2025-02-13 20:44:25 [main] INFO  BaseClass - Browser launched and navigated to URL.
+2025-02-13 20:44:25 [main] INFO  BaseClass - Closing browser...
+2025-02-13 20:53:17 [main] WARN  TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\91701\eclipse-workspace\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+2025-02-13 20:53:17 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\91701\eclipse-workspace\OpencartV121\master.xml
+
+2025-02-13 20:53:17 [main] INFO  BaseClass - Running tests on OS: Windows
+2025-02-13 20:53:17 [main] INFO  BaseClass - Initializing WebDriver for browser: chrome
+2025-02-13 20:53:20 [main] INFO  BaseClass - Browser launched and navigated to URL.
+2025-02-13 20:53:20 [main] INFO  BaseClass - Closing browser...
+2025-02-13 21:00:49 [main] WARN  TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\91701\eclipse-workspace\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+2025-02-13 21:00:50 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\91701\eclipse-workspace\OpencartV121\master.xml
+
+2025-02-13 21:00:50 [main] INFO  BaseClass - Running tests on OS: Windows
+2025-02-13 21:00:50 [main] INFO  BaseClass - Initializing WebDriver for browser: chrome
+2025-02-13 21:00:53 [main] INFO  BaseClass - Browser launched and navigated to URL.
+2025-02-13 21:00:53 [main] INFO  BaseClass - Closing browser...
+2025-02-13 21:02:19 [main] WARN  TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\91701\eclipse-workspace\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+2025-02-13 21:05:03 [main] WARN  TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\91701\eclipse-workspace\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+2025-02-13 21:05:03 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\91701\eclipse-workspace\OpencartV121\master.xml
+
+2025-02-13 21:05:03 [main] INFO  BaseClass - Running tests on OS: Windows
+2025-02-13 21:05:03 [main] INFO  BaseClass - Initializing WebDriver for browser: chrome
+2025-02-13 21:05:10 [main] INFO  BaseClass - Browser launched and navigated to URL.
+2025-02-13 21:05:10 [main] INFO  BaseClass - ************* TC002_LoginTest *************
+2025-02-13 21:05:11 [main] INFO  BaseClass - ************* TC002_Login Test Completed *************
+2025-02-13 21:05:11 [main] INFO  BaseClass - Closing browser...
+2025-02-13 21:06:40 [main] WARN  TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\91701\eclipse-workspace\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+2025-02-13 21:06:40 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\91701\eclipse-workspace\OpencartV121\master.xml
+
+2025-02-13 21:06:40 [main] INFO  BaseClass - Running tests on OS: Windows
+2025-02-13 21:06:40 [main] INFO  BaseClass - Initializing WebDriver for browser: chrome
+2025-02-13 21:06:43 [main] INFO  BaseClass - Browser launched and navigated to URL.
+2025-02-13 21:06:43 [main] INFO  BaseClass - Closing browser...
+2025-02-13 21:29:36 [main] WARN  TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\91701\eclipse-workspace\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+2025-02-13 21:29:36 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\91701\eclipse-workspace\OpencartV121\master.xml
+
+2025-02-13 21:29:36 [main] INFO  BaseClass - Running tests on OS: Windows
+2025-02-13 21:29:36 [main] INFO  BaseClass - Initializing WebDriver for browser: chrome
+2025-02-13 21:29:41 [main] INFO  BaseClass - Browser launched and navigated to URL.
+2025-02-13 21:29:42 [main] INFO  BaseClass - Closing browser...
+2025-02-13 21:33:24 [main] WARN  TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\91701\eclipse-workspace\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+2025-02-13 21:33:24 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\91701\eclipse-workspace\OpencartV121\master.xml
+
+2025-02-13 21:33:24 [main] INFO  BaseClass - Running tests on OS: Windows
+2025-02-13 21:33:24 [main] INFO  BaseClass - Initializing WebDriver for browser: chrome
+2025-02-13 21:33:29 [main] INFO  BaseClass - Browser launched and navigated to URL.
+2025-02-13 21:33:30 [main] INFO  BaseClass - Closing browser...
+2025-02-13 21:36:04 [main] WARN  TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\91701\eclipse-workspace\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+2025-02-13 21:36:04 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\91701\eclipse-workspace\OpencartV121\master.xml
+
+2025-02-13 21:36:04 [main] INFO  BaseClass - Running tests on OS: Windows
+2025-02-13 21:36:04 [main] INFO  BaseClass - Initializing WebDriver for browser: chrome
+2025-02-13 21:36:08 [main] INFO  BaseClass - Browser launched and navigated to URL.
+2025-02-13 21:36:09 [main] INFO  BaseClass - Closing browser...
+2025-02-13 22:34:51 [main] WARN  TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\91701\eclipse-workspace\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+2025-02-13 22:35:57 [main] WARN  TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\91701\eclipse-workspace\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+2025-02-13 22:35:57 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\91701\eclipse-workspace\OpencartV121\master.xml
+
+2025-02-13 22:35:57 [main] INFO  BaseClass - Running tests on OS: Windows
+2025-02-13 22:35:57 [main] INFO  BaseClass - Initializing WebDriver for browser: chrome
+2025-02-13 22:36:05 [main] INFO  BaseClass - Browser launched and navigated to URL.
+2025-02-13 22:36:05 [main] INFO  BaseClass - ************* TC002_LoginTest *************
+2025-02-13 22:36:06 [main] INFO  BaseClass - ************* TC002_Login Test Completed *************
+2025-02-13 22:36:06 [main] INFO  BaseClass - Closing browser...
+2025-02-13 23:38:27 [main] WARN  TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\91701\eclipse-workspace\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+2025-02-13 23:39:41 [main] WARN  TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\91701\eclipse-workspace\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+2025-02-13 23:39:41 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\91701\eclipse-workspace\OpencartV121\master.xml
+
+2025-02-13 23:39:41 [main] INFO  BaseClass - Running tests on OS: Windows
+2025-02-13 23:39:41 [main] INFO  BaseClass - Initializing WebDriver for browser: chrome
+2025-02-13 23:39:47 [main] INFO  BaseClass - Browser launched and navigated to URL.
+2025-02-13 23:39:48 [main] INFO  BaseClass - Closing browser...
+2025-02-13 23:42:07 [main] WARN  TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\91701\eclipse-workspace\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+2025-02-13 23:42:07 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\91701\eclipse-workspace\OpencartV121\master.xml
+
+2025-02-13 23:42:07 [main] INFO  BaseClass - Running tests on OS: Windows
+2025-02-13 23:42:07 [main] INFO  BaseClass - Initializing WebDriver for browser: chrome
+2025-02-13 23:42:10 [main] INFO  BaseClass - Browser launched and navigated to URL.
+2025-02-13 23:42:10 [main] INFO  TC003_LoginDDT - Fetching login data from the Excel file.
+2025-02-13 23:42:10 [main] INFO  BaseClass - Closing browser...
+2025-02-13 23:44:47 [main] WARN  TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\91701\eclipse-workspace\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+2025-02-13 23:44:47 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\91701\eclipse-workspace\OpencartV121\master.xml
+
+2025-02-13 23:44:47 [main] INFO  BaseClass - Running tests on OS: Windows
+2025-02-13 23:44:47 [main] INFO  BaseClass - Initializing WebDriver for browser: chrome
+2025-02-13 23:44:50 [main] INFO  BaseClass - Browser launched and navigated to URL.
+2025-02-13 23:44:51 [main] INFO  BaseClass - Closing browser...
+2025-02-13 23:48:58 [main] WARN  TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\91701\eclipse-workspace\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+2025-02-13 23:48:59 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\91701\eclipse-workspace\OpencartV121\master.xml
+
+2025-02-13 23:48:59 [main] INFO  BaseClass - Running tests on OS: Windows
+2025-02-13 23:48:59 [main] INFO  BaseClass - Initializing WebDriver for browser: chrome
+2025-02-13 23:49:02 [main] INFO  BaseClass - Browser launched and navigated to URL.
+2025-02-13 23:49:03 [main] INFO  BaseClass - Closing browser...
+2025-02-14 00:01:32 [main] WARN  TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\91701\eclipse-workspace\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+2025-02-14 00:01:32 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\91701\eclipse-workspace\OpencartV121\master.xml
+
+2025-02-14 00:01:32 [main] INFO  BaseClass - Running tests on OS: Windows
+2025-02-14 00:01:32 [main] INFO  BaseClass - Initializing WebDriver for browser: chrome
+2025-02-14 00:01:35 [main] INFO  BaseClass - Browser launched and navigated to URL.
+2025-02-14 00:01:36 [main] INFO  BaseClass - Closing browser...
+2025-02-14 00:03:31 [main] WARN  TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\91701\eclipse-workspace\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+2025-02-14 00:03:31 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\91701\eclipse-workspace\OpencartV121\master.xml
+
+2025-02-14 00:05:52 [main] WARN  TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\91701\eclipse-workspace\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+2025-02-14 00:05:52 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\91701\eclipse-workspace\OpencartV121\master.xml
+
+2025-02-14 00:15:51 [main] WARN  TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\91701\eclipse-workspace\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+2025-02-14 00:15:51 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\91701\eclipse-workspace\OpencartV121\master.xml
+
+2025-02-14 00:15:51 [main] INFO  BaseClass - Running tests on OS: Windows
+2025-02-14 00:15:51 [main] INFO  BaseClass - Initializing WebDriver for browser: chrome
+2025-02-14 00:15:54 [main] INFO  BaseClass - Browser launched and navigated to URL.
+2025-02-14 00:15:55 [main] INFO  BaseClass - Closing browser...
+2025-02-14 00:19:49 [main] WARN  TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\91701\eclipse-workspace\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+2025-02-14 00:19:49 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\91701\eclipse-workspace\OpencartV121\master.xml
+
+2025-02-14 00:19:50 [main] INFO  BaseClass - Running tests on OS: Windows
+2025-02-14 00:19:50 [main] INFO  BaseClass - Initializing WebDriver for browser: chrome
+2025-02-14 00:19:52 [main] INFO  BaseClass - Browser launched and navigated to URL.
+2025-02-14 00:19:53 [main] WARN  Utils - The test method 'testCases.TC003_LoginDDT.verify_loginDDT' will be skipped since its data provider 'LoginData' returned an empty array or iterator. 
+2025-02-14 00:19:53 [main] INFO  BaseClass - Closing browser...
+2025-02-14 00:28:40 [main] WARN  TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\91701\eclipse-workspace\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+2025-02-14 00:28:40 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\91701\eclipse-workspace\OpencartV121\master.xml
+
+2025-02-14 00:28:40 [main] INFO  TC003_LoginDDT - Fetching login data from Excel...
+2025-02-14 00:28:41 [main] WARN  Utils - The test method 'testCases.TC003_LoginDDT.verify_loginDDT' will be skipped since its data provider 'LoginData' returned an empty array or iterator. 
+2025-02-14 00:31:50 [main] WARN  TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\91701\eclipse-workspace\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+2025-02-14 00:31:51 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\91701\eclipse-workspace\OpencartV121\master.xml
+
+2025-02-14 00:31:51 [main] INFO  TC003_LoginDDT - Fetching login data from Excel...
+2025-02-14 00:31:51 [main] WARN  Utils - The test method 'testCases.TC003_LoginDDT.verify_loginDDT' will be skipped since its data provider 'LoginData' returned an empty array or iterator. 
+2025-02-14 14:15:21 [main] WARN  TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\91701\eclipse-workspace\OpencartV121\grouping.xml] otherwise TestNG may fail or not work as expected.
+2025-02-14 14:18:34 [main] WARN  TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\91701\eclipse-workspace\OpencartV121\grouping.xml] otherwise TestNG may fail or not work as expected.
+2025-02-14 14:18:35 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\91701\eclipse-workspace\OpencartV121\grouping.xml
+
+2025-02-14 14:18:35 [main] INFO  BaseClass - Running tests on OS: windows
+2025-02-14 14:18:35 [main] INFO  BaseClass - Initializing WebDriver for browser: chrome
+2025-02-14 14:18:48 [main] INFO  BaseClass - Browser launched and navigated to URL.
+2025-02-14 14:18:48 [main] INFO  BaseClass - ************ Starting TC001_AccountRegistrationTest ************
+2025-02-14 14:18:49 [main] INFO  BaseClass - Navigated to registration page.
+2025-02-14 14:18:50 [main] INFO  BaseClass - Registration form submitted.
+2025-02-14 14:18:50 [main] INFO  BaseClass - Account registration successful.
+2025-02-14 14:18:50 [main] INFO  BaseClass - Closing browser...
+2025-02-14 14:18:51 [main] INFO  BaseClass - Running tests on OS: windows
+2025-02-14 14:18:51 [main] INFO  BaseClass - Initializing WebDriver for browser: chrome
+2025-02-14 14:18:54 [main] INFO  BaseClass - Browser launched and navigated to URL.
+2025-02-14 14:18:54 [main] INFO  BaseClass - ************* TC002_LoginTest *************
+2025-02-14 14:18:55 [main] INFO  BaseClass - ************* TC002_Login Test Completed *************
+2025-02-14 14:18:55 [main] INFO  BaseClass - Closing browser...
+2025-02-14 14:25:48 [main] WARN  TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\91701\eclipse-workspace\OpencartV121\grouping.xml] otherwise TestNG may fail or not work as expected.
+2025-02-14 14:25:48 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\91701\eclipse-workspace\OpencartV121\grouping.xml
+
+2025-02-14 14:25:48 [main] INFO  BaseClass - Running tests on OS: windows
+2025-02-14 14:25:48 [main] INFO  BaseClass - Initializing WebDriver for browser: chrome
+2025-02-14 14:25:52 [main] INFO  BaseClass - Browser launched and navigated to URL.
+2025-02-14 14:25:52 [main] INFO  BaseClass - ************* TC002_LoginTest *************
+2025-02-14 14:25:53 [main] INFO  BaseClass - ************* TC002_Login Test Completed *************
+2025-02-14 14:25:53 [main] INFO  BaseClass - Closing browser...
+2025-02-14 23:48:51 [main] WARN  TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\91701\eclipse-workspace\OpencartV121\grouping.xml] otherwise TestNG may fail or not work as expected.
+2025-02-14 23:48:52 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\91701\eclipse-workspace\OpencartV121\grouping.xml
+
+2025-02-14 23:48:52 [main] INFO  BaseClass - Running tests on OS: windows
+2025-02-14 23:48:52 [main] INFO  BaseClass - Initializing WebDriver for browser: chrome
+2025-02-14 23:48:58 [main] INFO  BaseClass - Browser launched and navigated to URL.
+2025-02-14 23:48:58 [main] INFO  BaseClass - ************ Starting TC001_AccountRegistrationTest ************
+2025-02-14 23:48:58 [main] INFO  BaseClass - Navigated to registration page.
+2025-02-14 23:49:00 [main] INFO  BaseClass - Registration form submitted.
+2025-02-14 23:49:00 [main] INFO  BaseClass - Account registration successful.
+2025-02-14 23:49:00 [main] INFO  BaseClass - Closing browser...
+2025-02-14 23:49:00 [main] INFO  BaseClass - Running tests on OS: windows
+2025-02-14 23:49:00 [main] INFO  BaseClass - Initializing WebDriver for browser: chrome
+2025-02-14 23:49:04 [main] INFO  BaseClass - Browser launched and navigated to URL.
+2025-02-14 23:49:04 [main] INFO  BaseClass - ************* TC002_LoginTest *************
+2025-02-14 23:49:05 [main] INFO  BaseClass - ************* TC002_Login Test Completed *************
+2025-02-14 23:49:05 [main] INFO  BaseClass - Closing browser...
+2025-02-14 23:52:58 [main] WARN  TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\91701\eclipse-workspace\OpencartV121\grouping.xml] otherwise TestNG may fail or not work as expected.
+2025-02-14 23:52:59 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\91701\eclipse-workspace\OpencartV121\grouping.xml
+
+2025-02-14 23:52:59 [main] INFO  BaseClass - Running tests on OS: windows
+2025-02-14 23:52:59 [main] INFO  BaseClass - Initializing WebDriver for browser: chrome
+2025-02-14 23:53:02 [main] INFO  BaseClass - Browser launched and navigated to URL.
+2025-02-14 23:53:02 [main] INFO  BaseClass - ************ Starting TC001_AccountRegistrationTest ************
+2025-02-14 23:53:02 [main] INFO  BaseClass - Navigated to registration page.
+2025-02-14 23:53:04 [main] INFO  BaseClass - Registration form submitted.
+2025-02-14 23:53:04 [main] INFO  BaseClass - Account registration successful.
+2025-02-14 23:53:04 [main] INFO  BaseClass - Closing browser...
+2025-02-14 23:53:05 [main] INFO  BaseClass - Running tests on OS: windows
+2025-02-14 23:53:05 [main] INFO  BaseClass - Initializing WebDriver for browser: chrome
+2025-02-14 23:53:07 [main] INFO  BaseClass - Browser launched and navigated to URL.
+2025-02-14 23:53:07 [main] INFO  BaseClass - ************* TC002_LoginTest *************
+2025-02-14 23:53:09 [main] INFO  BaseClass - ************* TC002_Login Test Completed *************
+2025-02-14 23:53:09 [main] INFO  BaseClass - Closing browser...
+2025-02-14 23:56:42 [main] WARN  TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\91701\eclipse-workspace\OpencartV121\grouping.xml] otherwise TestNG may fail or not work as expected.
+2025-02-14 23:56:42 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\91701\eclipse-workspace\OpencartV121\grouping.xml
+
+2025-02-14 23:56:43 [main] INFO  BaseClass - Running tests on OS: windows
+2025-02-14 23:56:43 [main] INFO  BaseClass - Initializing WebDriver for browser: chrome
+2025-02-14 23:56:46 [main] INFO  BaseClass - Browser launched and navigated to URL.
+2025-02-14 23:56:46 [main] INFO  BaseClass - ************ Starting TC001_AccountRegistrationTest ************
+2025-02-14 23:56:46 [main] INFO  BaseClass - Navigated to registration page.
+2025-02-14 23:56:48 [main] INFO  BaseClass - Registration form submitted.
+2025-02-14 23:56:48 [main] INFO  BaseClass - Account registration successful.
+2025-02-14 23:56:48 [main] INFO  BaseClass - Closing browser...
+2025-02-14 23:56:48 [main] INFO  BaseClass - Running tests on OS: windows
+2025-02-14 23:56:48 [main] INFO  BaseClass - Initializing WebDriver for browser: chrome
+2025-02-14 23:56:51 [main] INFO  BaseClass - Browser launched and navigated to URL.
+2025-02-14 23:56:51 [main] INFO  BaseClass - ************* TC002_LoginTest *************
+2025-02-14 23:57:02 [main] INFO  BaseClass - Closing browser...
+2025-02-14 23:59:25 [main] WARN  TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\91701\eclipse-workspace\OpencartV121\grouping.xml] otherwise TestNG may fail or not work as expected.
+2025-02-14 23:59:25 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\91701\eclipse-workspace\OpencartV121\grouping.xml
+
+2025-02-14 23:59:25 [main] INFO  BaseClass - Running tests on OS: windows
+2025-02-14 23:59:25 [main] INFO  BaseClass - Initializing WebDriver for browser: chrome
+2025-02-14 23:59:28 [main] INFO  BaseClass - Browser launched and navigated to URL.
+2025-02-14 23:59:28 [main] INFO  BaseClass - ************ Starting TC001_AccountRegistrationTest ************
+2025-02-14 23:59:29 [main] INFO  BaseClass - Navigated to registration page.
+2025-02-14 23:59:31 [main] INFO  BaseClass - Registration form submitted.
+2025-02-14 23:59:31 [main] INFO  BaseClass - Account registration successful.
+2025-02-14 23:59:31 [main] INFO  BaseClass - Closing browser...
+2025-02-14 23:59:31 [main] INFO  BaseClass - Running tests on OS: windows
+2025-02-14 23:59:31 [main] INFO  BaseClass - Initializing WebDriver for browser: chrome
+2025-02-14 23:59:33 [main] INFO  BaseClass - Browser launched and navigated to URL.
+2025-02-14 23:59:33 [main] INFO  BaseClass - ************* TC002_LoginTest *************
+2025-02-14 23:59:45 [main] INFO  BaseClass - Closing browser...
+2025-02-15 00:05:12 [main] WARN  TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\91701\eclipse-workspace\OpencartV121\grouping.xml] otherwise TestNG may fail or not work as expected.
+2025-02-15 00:05:12 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\91701\eclipse-workspace\OpencartV121\grouping.xml
+
+2025-02-15 00:05:13 [main] INFO  BaseClass - Running tests on OS: windows
+2025-02-15 00:05:13 [main] INFO  BaseClass - Initializing WebDriver for browser: chrome
+2025-02-15 00:05:16 [main] INFO  BaseClass - Browser launched and navigated to URL.
+2025-02-15 00:05:16 [main] INFO  BaseClass - ************ Starting TC001_AccountRegistrationTest ************
+2025-02-15 00:05:16 [main] INFO  BaseClass - Navigated to registration page.
+2025-02-15 00:05:18 [main] INFO  BaseClass - Registration form submitted.
+2025-02-15 00:05:18 [main] INFO  BaseClass - Account registration successful.
+2025-02-15 00:05:18 [main] INFO  BaseClass - Closing browser...
+2025-02-15 00:05:18 [main] INFO  BaseClass - Running tests on OS: windows
+2025-02-15 00:05:18 [main] INFO  BaseClass - Initializing WebDriver for browser: chrome
+2025-02-15 00:05:21 [main] INFO  BaseClass - Browser launched and navigated to URL.
+2025-02-15 00:05:21 [main] INFO  BaseClass - ************* TC002_LoginTest *************
+2025-02-15 00:05:32 [main] INFO  BaseClass - Closing browser...
+2025-02-15 00:08:27 [main] WARN  TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\91701\eclipse-workspace\OpencartV121\grouping.xml] otherwise TestNG may fail or not work as expected.
+2025-02-15 00:08:27 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\91701\eclipse-workspace\OpencartV121\grouping.xml
+
+2025-02-15 00:08:28 [main] INFO  BaseClass - Running tests on OS: windows
+2025-02-15 00:08:28 [main] INFO  BaseClass - Initializing WebDriver for browser: chrome
+2025-02-15 00:08:32 [main] INFO  BaseClass - Browser launched and navigated to URL.
+2025-02-15 00:08:32 [main] INFO  BaseClass - ************ Starting TC001_AccountRegistrationTest ************
+2025-02-15 00:08:32 [main] INFO  BaseClass - Navigated to registration page.
+2025-02-15 00:08:34 [main] INFO  BaseClass - Registration form submitted.
+2025-02-15 00:08:34 [main] INFO  BaseClass - Account registration successful.
+2025-02-15 00:08:34 [main] INFO  BaseClass - Closing browser...
+2025-02-15 00:08:34 [main] INFO  BaseClass - Running tests on OS: windows
+2025-02-15 00:08:34 [main] INFO  BaseClass - Initializing WebDriver for browser: chrome
+2025-02-15 00:08:37 [main] INFO  BaseClass - Browser launched and navigated to URL.
+2025-02-15 00:08:37 [main] INFO  BaseClass - ************* TC002_LoginTest *************
+2025-02-15 00:08:48 [main] INFO  BaseClass - Closing browser...
+2025-02-17 23:18:06 [main] WARN  TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\91701\eclipse-workspace\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+2025-02-17 23:18:06 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\91701\eclipse-workspace\OpencartV121\master.xml
+
+2025-02-17 23:18:06 [main] INFO  TC003_LoginDDT - Fetching login data from Excel...
+2025-02-17 23:18:07 [main] WARN  Utils - The test method 'testCases.TC003_LoginDDT.verify_loginDDT' will be skipped since its data provider 'LoginData' returned an empty array or iterator. 
+2025-02-17 23:22:31 [main] WARN  TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\91701\eclipse-workspace\OpencartV121\master.xml] otherwise TestNG may fail or not work as expected.
+2025-02-17 23:22:32 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\91701\eclipse-workspace\OpencartV121\master.xml
+
+2025-02-17 23:22:32 [main] INFO  TC003_LoginDDT - Fetching login data from Excel...
+2025-02-17 23:22:32 [main] WARN  Utils - The test method 'testCases.TC003_LoginDDT.verify_loginDDT' will be skipped since its data provider 'LoginData' returned an empty array or iterator. 
+2025-02-17 23:50:38 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\91701\eclipse-workspace\OpencartV121\master.xml
+
+2025-02-17 23:50:38 [main] INFO  BaseClass - Running tests on OS: Windows
+2025-02-17 23:50:38 [main] INFO  BaseClass - Initializing WebDriver for browser: chrome
+2025-02-17 23:50:42 [main] INFO  BaseClass - Local WebDriver setup completed.
+2025-02-17 23:50:43 [main] INFO  BaseClass - Browser launched and navigated to URL.
+2025-02-17 23:50:43 [main] INFO  TC003_LoginDDT - Fetching login data from Excel...
+2025-02-17 23:50:44 [main] WARN  Utils - The test method 'testCases.TC003_LoginDDT.verify_loginDDT' will be skipped since its data provider 'LoginData' returned an empty array or iterator. 
+2025-02-17 23:50:44 [main] INFO  BaseClass - Closing browser...
+2025-02-17 23:50:44 [main] INFO  BaseClass - Running tests on OS: Windows
+2025-02-17 23:50:44 [main] INFO  BaseClass - Initializing WebDriver for browser: chrome
+2025-02-17 23:50:45 [main] INFO  BaseClass - Local WebDriver setup completed.
+2025-02-17 23:50:46 [main] INFO  BaseClass - Browser launched and navigated to URL.
+2025-02-17 23:50:46 [main] INFO  BaseClass - ************ Starting TC001_AccountRegistrationTest ************
+2025-02-17 23:50:47 [main] INFO  BaseClass - Navigated to registration page.
+2025-02-17 23:50:48 [main] INFO  BaseClass - Registration form submitted.
+2025-02-17 23:50:48 [main] INFO  BaseClass - Account registration successful.
+2025-02-17 23:50:48 [main] INFO  BaseClass - Closing browser...
+2025-02-17 23:50:48 [main] INFO  BaseClass - Running tests on OS: Windows
+2025-02-17 23:50:48 [main] INFO  BaseClass - Initializing WebDriver for browser: chrome
+2025-02-17 23:50:50 [main] INFO  BaseClass - Local WebDriver setup completed.
+2025-02-17 23:50:51 [main] INFO  BaseClass - Browser launched and navigated to URL.
+2025-02-17 23:50:51 [main] INFO  BaseClass - ************* TC002_LoginTest *************
+2025-02-17 23:50:52 [main] INFO  BaseClass - ************* TC002_Login Test Completed *************
+2025-02-17 23:50:52 [main] INFO  BaseClass - Closing browser...
+2025-02-17 23:53:41 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\91701\eclipse-workspace\OpencartV121\master.xml
+
+2025-02-17 23:53:41 [main] INFO  BaseClass - Running tests on OS: Windows
+2025-02-17 23:53:41 [main] INFO  BaseClass - Initializing WebDriver for browser: chrome
+2025-02-17 23:53:43 [main] INFO  BaseClass - Local WebDriver setup completed.
+2025-02-17 23:53:44 [main] INFO  BaseClass - Browser launched and navigated to URL.
+2025-02-17 23:53:44 [main] INFO  TC003_LoginDDT - Fetching login data from Excel...
+2025-02-17 23:53:45 [main] WARN  Utils - The test method 'testCases.TC003_LoginDDT.verify_loginDDT' will be skipped since its data provider 'LoginData' returned an empty array or iterator. 
+2025-02-17 23:53:45 [main] INFO  BaseClass - Closing browser...
+2025-02-17 23:53:45 [main] INFO  BaseClass - Running tests on OS: Windows
+2025-02-17 23:53:45 [main] INFO  BaseClass - Initializing WebDriver for browser: chrome
+2025-02-17 23:53:46 [main] INFO  BaseClass - Local WebDriver setup completed.
+2025-02-17 23:53:47 [main] INFO  BaseClass - Browser launched and navigated to URL.
+2025-02-17 23:53:47 [main] INFO  BaseClass - ************ Starting TC001_AccountRegistrationTest ************
+2025-02-17 23:53:48 [main] INFO  BaseClass - Navigated to registration page.
+2025-02-17 23:53:49 [main] INFO  BaseClass - Registration form submitted.
+2025-02-17 23:53:49 [main] INFO  BaseClass - Account registration successful.
+2025-02-17 23:53:49 [main] INFO  BaseClass - Closing browser...
+2025-02-17 23:53:49 [main] INFO  BaseClass - Running tests on OS: Windows
+2025-02-17 23:53:49 [main] INFO  BaseClass - Initializing WebDriver for browser: chrome
+2025-02-17 23:53:50 [main] INFO  BaseClass - Local WebDriver setup completed.
+2025-02-17 23:53:51 [main] INFO  BaseClass - Browser launched and navigated to URL.
+2025-02-17 23:53:51 [main] INFO  BaseClass - ************* TC002_LoginTest *************
+2025-02-17 23:53:52 [main] INFO  BaseClass - ************* TC002_Login Test Completed *************
+2025-02-17 23:53:52 [main] INFO  BaseClass - Closing browser...
+2025-02-17 23:57:02 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\91701\eclipse-workspace\OpencartV121\master.xml
+
+2025-02-17 23:57:03 [main] INFO  BaseClass - Running tests on OS: Windows
+2025-02-17 23:57:03 [main] INFO  BaseClass - Initializing WebDriver for browser: chrome
+2025-02-17 23:57:05 [main] INFO  BaseClass - Remote WebDriver setup completed.
+2025-02-17 23:57:06 [main] INFO  BaseClass - Browser launched and navigated to URL.
+2025-02-17 23:57:06 [main] INFO  TC003_LoginDDT - Fetching login data from Excel...
+2025-02-17 23:57:07 [main] WARN  Utils - The test method 'testCases.TC003_LoginDDT.verify_loginDDT' will be skipped since its data provider 'LoginData' returned an empty array or iterator. 
+2025-02-17 23:57:07 [main] INFO  BaseClass - Closing browser...
+2025-02-17 23:57:07 [main] INFO  BaseClass - Running tests on OS: Windows
+2025-02-17 23:57:07 [main] INFO  BaseClass - Initializing WebDriver for browser: chrome
+2025-02-17 23:57:08 [main] INFO  BaseClass - Remote WebDriver setup completed.
+2025-02-17 23:57:09 [main] INFO  BaseClass - Browser launched and navigated to URL.
+2025-02-17 23:57:09 [main] INFO  BaseClass - ************ Starting TC001_AccountRegistrationTest ************
+2025-02-17 23:57:10 [main] INFO  BaseClass - Navigated to registration page.
+2025-02-17 23:57:11 [main] INFO  BaseClass - Registration form submitted.
+2025-02-17 23:57:11 [main] INFO  BaseClass - Account registration successful.
+2025-02-17 23:57:11 [main] INFO  BaseClass - Closing browser...
+2025-02-17 23:57:11 [main] INFO  BaseClass - Running tests on OS: Windows
+2025-02-17 23:57:11 [main] INFO  BaseClass - Initializing WebDriver for browser: chrome
+2025-02-17 23:57:13 [main] INFO  BaseClass - Remote WebDriver setup completed.
+2025-02-17 23:57:14 [main] INFO  BaseClass - Browser launched and navigated to URL.
+2025-02-17 23:57:14 [main] INFO  BaseClass - ************* TC002_LoginTest *************
+2025-02-17 23:57:15 [main] INFO  BaseClass - ************* TC002_Login Test Completed *************
+2025-02-17 23:57:15 [main] INFO  BaseClass - Closing browser...
+2025-02-17 23:57:49 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\91701\eclipse-workspace\OpencartV121\master.xml
+
+2025-02-17 23:57:50 [main] INFO  BaseClass - Running tests on OS: Windows
+2025-02-17 23:57:50 [main] INFO  BaseClass - Initializing WebDriver for browser: chrome
+2025-02-17 23:57:51 [main] INFO  BaseClass - Remote WebDriver setup completed.
+2025-02-17 23:57:53 [main] INFO  BaseClass - Browser launched and navigated to URL.
+2025-02-17 23:57:53 [main] INFO  TC003_LoginDDT - Fetching login data from Excel...
+2025-02-17 23:57:54 [main] WARN  Utils - The test method 'testCases.TC003_LoginDDT.verify_loginDDT' will be skipped since its data provider 'LoginData' returned an empty array or iterator. 
+2025-02-17 23:57:54 [main] INFO  BaseClass - Closing browser...
+2025-02-17 23:57:54 [main] INFO  BaseClass - Running tests on OS: Windows
+2025-02-17 23:57:54 [main] INFO  BaseClass - Initializing WebDriver for browser: chrome
+2025-02-17 23:57:55 [main] INFO  BaseClass - Remote WebDriver setup completed.
+2025-02-17 23:57:56 [main] INFO  BaseClass - Browser launched and navigated to URL.
+2025-02-17 23:57:56 [main] INFO  BaseClass - ************ Starting TC001_AccountRegistrationTest ************
+2025-02-17 23:57:57 [main] INFO  BaseClass - Navigated to registration page.
+2025-02-17 23:57:58 [main] INFO  BaseClass - Registration form submitted.
+2025-02-17 23:57:58 [main] INFO  BaseClass - Account registration successful.
+2025-02-17 23:57:58 [main] INFO  BaseClass - Closing browser...
+2025-02-17 23:57:58 [main] INFO  BaseClass - Running tests on OS: Windows
+2025-02-17 23:57:58 [main] INFO  BaseClass - Initializing WebDriver for browser: chrome
+2025-02-17 23:58:00 [main] INFO  BaseClass - Remote WebDriver setup completed.
+2025-02-17 23:58:01 [main] INFO  BaseClass - Browser launched and navigated to URL.
+2025-02-17 23:58:01 [main] INFO  BaseClass - ************* TC002_LoginTest *************
+2025-02-17 23:58:02 [main] INFO  BaseClass - ************* TC002_Login Test Completed *************
+2025-02-17 23:58:02 [main] INFO  BaseClass - Closing browser...
+2025-02-18 00:07:47 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\91701\eclipse-workspace\OpencartV121\master.xml
+
+2025-02-18 00:07:47 [main] INFO  BaseClass - Running tests on OS: Windows
+2025-02-18 00:07:47 [main] INFO  BaseClass - Initializing WebDriver for browser: chrome
+2025-02-18 00:07:50 [main] INFO  BaseClass - Remote WebDriver setup completed.
+2025-02-18 00:07:51 [main] INFO  BaseClass - Browser launched and navigated to URL.
+2025-02-18 00:07:51 [main] INFO  TC003_LoginDDT - Fetching login data from Excel...
+2025-02-18 00:07:52 [main] WARN  Utils - The test method 'testCases.TC003_LoginDDT.verify_loginDDT' will be skipped since its data provider 'LoginData' returned an empty array or iterator. 
+2025-02-18 00:07:52 [main] INFO  BaseClass - Closing browser...
+2025-02-18 00:07:52 [main] INFO  BaseClass - Running tests on OS: Windows
+2025-02-18 00:07:52 [main] INFO  BaseClass - Initializing WebDriver for browser: chrome
+2025-02-18 00:07:53 [main] INFO  BaseClass - Remote WebDriver setup completed.
+2025-02-18 00:07:54 [main] INFO  BaseClass - Browser launched and navigated to URL.
+2025-02-18 00:07:54 [main] INFO  BaseClass - ************ Starting TC001_AccountRegistrationTest ************
+2025-02-18 00:07:55 [main] INFO  BaseClass - Navigated to registration page.
+2025-02-18 00:07:56 [main] INFO  BaseClass - Registration form submitted.
+2025-02-18 00:07:56 [main] INFO  BaseClass - Account registration successful.
+2025-02-18 00:07:56 [main] INFO  BaseClass - Closing browser...
+2025-02-18 00:07:56 [main] INFO  BaseClass - Running tests on OS: Windows
+2025-02-18 00:07:56 [main] INFO  BaseClass - Initializing WebDriver for browser: chrome
+2025-02-18 00:07:58 [main] INFO  BaseClass - Remote WebDriver setup completed.
+2025-02-18 00:07:59 [main] INFO  BaseClass - Browser launched and navigated to URL.
+2025-02-18 00:07:59 [main] INFO  BaseClass - ************* TC002_LoginTest *************
+2025-02-18 00:08:00 [main] INFO  BaseClass - ************* TC002_Login Test Completed *************
+2025-02-18 00:08:00 [main] INFO  BaseClass - Closing browser...
+2025-02-18 00:08:27 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\91701\eclipse-workspace\OpencartV121\master.xml
+
+2025-02-18 00:08:27 [main] INFO  BaseClass - Running tests on OS: Windows
+2025-02-18 00:08:27 [main] INFO  BaseClass - Initializing WebDriver for browser: chrome
+2025-02-18 00:08:29 [main] INFO  BaseClass - Remote WebDriver setup completed.
+2025-02-18 00:08:30 [main] INFO  BaseClass - Browser launched and navigated to URL.
+2025-02-18 00:08:30 [main] INFO  TC003_LoginDDT - Fetching login data from Excel...
+2025-02-18 00:08:31 [main] WARN  Utils - The test method 'testCases.TC003_LoginDDT.verify_loginDDT' will be skipped since its data provider 'LoginData' returned an empty array or iterator. 
+2025-02-18 00:08:31 [main] INFO  BaseClass - Closing browser...
+2025-02-18 00:08:31 [main] INFO  BaseClass - Running tests on OS: Windows
+2025-02-18 00:08:31 [main] INFO  BaseClass - Initializing WebDriver for browser: chrome
+2025-02-18 00:08:32 [main] INFO  BaseClass - Remote WebDriver setup completed.
+2025-02-18 00:08:33 [main] INFO  BaseClass - Browser launched and navigated to URL.
+2025-02-18 00:08:33 [main] INFO  BaseClass - ************ Starting TC001_AccountRegistrationTest ************
+2025-02-18 00:08:34 [main] INFO  BaseClass - Navigated to registration page.
+2025-02-18 00:08:36 [main] INFO  BaseClass - Registration form submitted.
+2025-02-18 00:08:36 [main] INFO  BaseClass - Account registration successful.
+2025-02-18 00:08:36 [main] INFO  BaseClass - Closing browser...
+2025-02-18 00:08:36 [main] INFO  BaseClass - Running tests on OS: Windows
+2025-02-18 00:08:36 [main] INFO  BaseClass - Initializing WebDriver for browser: chrome
+2025-02-18 00:08:37 [main] INFO  BaseClass - Remote WebDriver setup completed.
+2025-02-18 00:08:38 [main] INFO  BaseClass - Browser launched and navigated to URL.
+2025-02-18 00:08:38 [main] INFO  BaseClass - ************* TC002_LoginTest *************
+2025-02-18 00:08:40 [main] INFO  BaseClass - ************* TC002_Login Test Completed *************
+2025-02-18 00:08:40 [main] INFO  BaseClass - Closing browser...
+2025-02-18 00:14:23 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\91701\eclipse-workspace\OpencartV121\parallel.xml
+
+2025-02-18 00:14:23 [TestNG-tests-1] INFO  BaseClass - Running tests on OS: Windows
+2025-02-18 00:14:23 [TestNG-tests-2] INFO  BaseClass - Running tests on OS: Windows
+2025-02-18 00:14:23 [TestNG-tests-2] INFO  BaseClass - Initializing WebDriver for browser: firefox
+2025-02-18 00:14:23 [TestNG-tests-1] INFO  BaseClass - Initializing WebDriver for browser: chrome
+2025-02-18 00:14:23 [TestNG-tests-3] INFO  BaseClass - Running tests on OS: Windows
+2025-02-18 00:14:23 [TestNG-tests-3] INFO  BaseClass - Initializing WebDriver for browser: edge
+2025-02-18 00:14:25 [TestNG-tests-1] INFO  BaseClass - Remote WebDriver setup completed.
+2025-02-18 00:14:26 [TestNG-tests-1] INFO  BaseClass - Browser launched and navigated to URL.
+2025-02-18 00:14:26 [TestNG-tests-1] INFO  TC003_LoginDDT - Fetching login data from Excel...
+2025-02-18 00:14:27 [TestNG-tests-1] WARN  Utils - The test method 'testCases.TC003_LoginDDT.verify_loginDDT' will be skipped since its data provider 'LoginData' returned an empty array or iterator. 
+2025-02-18 00:14:27 [TestNG-tests-1] INFO  BaseClass - Closing browser...
+2025-02-18 00:14:28 [TestNG-tests-1] INFO  BaseClass - Running tests on OS: Windows
+2025-02-18 00:14:28 [TestNG-tests-1] INFO  BaseClass - Initializing WebDriver for browser: chrome
+2025-02-18 00:14:30 [TestNG-tests-1] INFO  BaseClass - Remote WebDriver setup completed.
+2025-02-18 00:14:30 [TestNG-tests-2] INFO  BaseClass - Remote WebDriver setup completed.
+2025-02-18 00:14:30 [TestNG-tests-1] INFO  BaseClass - Browser launched and navigated to URL.
+2025-02-18 00:14:30 [TestNG-tests-1] INFO  BaseClass - ************ Starting TC001_AccountRegistrationTest ************
+2025-02-18 00:14:31 [TestNG-tests-1] ERROR BaseClass - Exception occurred in registration test: Unable to locate element: My Account
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [704255b8-664f-44bf-84f1-60c80491e49e, findElement {value=My Account, using=link text}]
+Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 135.0, moz:accessibilityChecks: false, moz:buildID: 20250130195129, moz:geckodriverVersion: 0.35.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 16992, moz:profile: C:\Users\91701\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: Windows 11, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.29.47:4444/ses..., setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 704255b8-664f-44bf-84f1-60c80491e49e
+org.openqa.selenium.NoSuchElementException: Unable to locate element: My Account
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [704255b8-664f-44bf-84f1-60c80491e49e, findElement {value=My Account, using=link text}]
+Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 135.0, moz:accessibilityChecks: false, moz:buildID: 20250130195129, moz:geckodriverVersion: 0.35.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 16992, moz:profile: C:\Users\91701\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: Windows 11, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.29.47:4444/ses..., setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 704255b8-664f-44bf-84f1-60c80491e49e
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.TracedCommandExecutor.execute(TracedCommandExecutor.java:53) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68) ~[selenium-support-4.28.1.jar:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38) ~[selenium-support-4.28.1.jar:?]
+	at jdk.proxy2/jdk.proxy2.$Proxy31.click(Unknown Source) ~[?:?]
+	at pageObjects.HomePage.clickMyAccount(HomePage.java:26) ~[test-classes/:?]
+	at testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) ~[?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1575) [?:?]
+2025-02-18 00:14:31 [TestNG-tests-1] INFO  BaseClass - Closing browser...
+2025-02-18 00:14:33 [TestNG-tests-3] INFO  BaseClass - Remote WebDriver setup completed.
+2025-02-18 00:14:34 [TestNG-tests-3] INFO  BaseClass - Browser launched and navigated to URL.
+2025-02-18 00:14:34 [TestNG-tests-3] INFO  TC003_LoginDDT - Fetching login data from Excel...
+2025-02-18 00:14:34 [TestNG-tests-3] WARN  Utils - The test method 'testCases.TC003_LoginDDT.verify_loginDDT' will be skipped since its data provider 'LoginData' returned an empty array or iterator. 
+2025-02-18 00:14:34 [TestNG-tests-3] INFO  BaseClass - Closing browser...
+2025-02-18 00:14:35 [TestNG-tests-2] INFO  BaseClass - Browser launched and navigated to URL.
+2025-02-18 00:14:35 [TestNG-tests-2] INFO  TC003_LoginDDT - Fetching login data from Excel...
+2025-02-18 00:14:35 [TestNG-tests-2] WARN  Utils - The test method 'testCases.TC003_LoginDDT.verify_loginDDT' will be skipped since its data provider 'LoginData' returned an empty array or iterator. 
+2025-02-18 00:14:35 [TestNG-tests-2] INFO  BaseClass - Closing browser...
+2025-02-18 00:14:35 [TestNG-tests-2] INFO  BaseClass - Running tests on OS: Windows
+2025-02-18 00:14:35 [TestNG-tests-2] INFO  BaseClass - Initializing WebDriver for browser: firefox
+2025-02-18 00:14:35 [TestNG-tests-3] INFO  BaseClass - Running tests on OS: Windows
+2025-02-18 00:14:35 [TestNG-tests-3] INFO  BaseClass - Initializing WebDriver for browser: edge
+2025-02-18 00:14:37 [TestNG-tests-3] INFO  BaseClass - Remote WebDriver setup completed.
+2025-02-18 00:14:37 [TestNG-tests-1] INFO  BaseClass - Running tests on OS: Windows
+2025-02-18 00:14:37 [TestNG-tests-1] INFO  BaseClass - Initializing WebDriver for browser: chrome
+2025-02-18 00:14:37 [TestNG-tests-3] INFO  BaseClass - Browser launched and navigated to URL.
+2025-02-18 00:14:37 [TestNG-tests-3] INFO  BaseClass - ************ Starting TC001_AccountRegistrationTest ************
+2025-02-18 00:14:40 [TestNG-tests-1] INFO  BaseClass - Remote WebDriver setup completed.
+2025-02-18 00:14:40 [TestNG-tests-3] INFO  BaseClass - Navigated to registration page.
+2025-02-18 00:14:41 [TestNG-tests-1] INFO  BaseClass - Browser launched and navigated to URL.
+2025-02-18 00:14:41 [TestNG-tests-1] INFO  BaseClass - ************* TC002_LoginTest *************
+2025-02-18 00:14:42 [TestNG-tests-2] INFO  BaseClass - Remote WebDriver setup completed.
+2025-02-18 00:14:44 [TestNG-tests-2] INFO  BaseClass - Browser launched and navigated to URL.
+2025-02-18 00:14:44 [TestNG-tests-2] INFO  BaseClass - ************ Starting TC001_AccountRegistrationTest ************
+2025-02-18 00:14:45 [TestNG-tests-2] INFO  BaseClass - Navigated to registration page.
+2025-02-18 00:14:47 [TestNG-tests-2] INFO  BaseClass - Registration form submitted.
+2025-02-18 00:14:47 [TestNG-tests-2] INFO  BaseClass - Account registration successful.
+2025-02-18 00:14:47 [TestNG-tests-2] INFO  BaseClass - Closing browser...
+2025-02-18 00:14:48 [TestNG-tests-2] INFO  BaseClass - Running tests on OS: Windows
+2025-02-18 00:14:48 [TestNG-tests-2] INFO  BaseClass - Initializing WebDriver for browser: firefox
+2025-02-18 00:14:51 [TestNG-tests-2] INFO  BaseClass - Remote WebDriver setup completed.
+2025-02-18 00:14:51 [TestNG-tests-3] ERROR BaseClass - Exception occurred in registration test: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='input-firstname']"}
+  (Session info: chrome=133.0.6943.98)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [b05a9a45bcd5aed36a7de3661ea29791, findElement {value=//input[@id='input-firstname'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 133.0.6943.98, chrome: {chromedriverVersion: 133.0.6943.98 (da53563ceb66..., userDataDir: C:\Users\91701\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53464}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: Windows 11, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.29.47:4444/ses..., se:cdpVersion: 133.0.6943.98, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b05a9a45bcd5aed36a7de3661ea29791
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='input-firstname']"}
+  (Session info: chrome=133.0.6943.98)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [b05a9a45bcd5aed36a7de3661ea29791, findElement {value=//input[@id='input-firstname'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 133.0.6943.98, chrome: {chromedriverVersion: 133.0.6943.98 (da53563ceb66..., userDataDir: C:\Users\91701\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53464}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: Windows 11, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.29.47:4444/ses..., se:cdpVersion: 133.0.6943.98, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b05a9a45bcd5aed36a7de3661ea29791
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.TracedCommandExecutor.execute(TracedCommandExecutor.java:53) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68) ~[selenium-support-4.28.1.jar:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38) ~[selenium-support-4.28.1.jar:?]
+	at jdk.proxy2/jdk.proxy2.$Proxy31.sendKeys(Unknown Source) ~[?:?]
+	at pageObjects.AccountRegistrationPage.enterFirstName(AccountRegistrationPage.java:43) ~[test-classes/:?]
+	at testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:31) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) ~[?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1575) [?:?]
+2025-02-18 00:14:51 [TestNG-tests-3] INFO  BaseClass - Closing browser...
+2025-02-18 00:14:52 [TestNG-tests-1] ERROR BaseClass - Exception occurred: Tried to run command without establishing a connection
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [16430ad9-7830-4320-ac85-0c12db8ffef4, findElement {value=//input[@id='input-email'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 135.0, moz:accessibilityChecks: false, moz:buildID: 20250130195129, moz:geckodriverVersion: 0.35.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 7476, moz:profile: C:\Users\91701\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: Windows 11, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.29.47:4444/ses..., setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 16430ad9-7830-4320-ac85-0c12db8ffef4
+2025-02-18 00:14:52 [TestNG-tests-3] INFO  BaseClass - Running tests on OS: Windows
+2025-02-18 00:14:52 [TestNG-tests-3] INFO  BaseClass - Initializing WebDriver for browser: edge
+2025-02-18 00:14:52 [TestNG-tests-1] INFO  BaseClass - Closing browser...
+2025-02-18 00:14:55 [TestNG-tests-3] INFO  BaseClass - Remote WebDriver setup completed.
+2025-02-18 00:14:56 [TestNG-tests-3] INFO  BaseClass - Browser launched and navigated to URL.
+2025-02-18 00:14:56 [TestNG-tests-3] INFO  BaseClass - ************* TC002_LoginTest *************
+2025-02-18 00:14:58 [TestNG-tests-3] INFO  BaseClass - ************* TC002_Login Test Completed *************
+2025-02-18 00:14:58 [TestNG-tests-3] INFO  BaseClass - Closing browser...
+2025-02-18 10:39:24 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\91701\eclipse-workspace\OpencartV121\master.xml
+
+2025-02-18 10:39:24 [main] INFO  BaseClass - Running tests on OS: Windows
+2025-02-18 10:39:24 [main] INFO  BaseClass - Initializing WebDriver for browser: chrome
+2025-02-18 10:39:27 [main] INFO  BaseClass - Local WebDriver setup completed.
+2025-02-18 10:39:27 [main] INFO  TC003_LoginDDT - Fetching login data from Excel...
+2025-02-18 10:39:28 [main] WARN  Utils - The test method 'testCases.TC003_LoginDDT.verify_loginDDT' will be skipped since its data provider 'LoginData' returned an empty array or iterator. 
+2025-02-18 10:39:28 [main] INFO  BaseClass - Running tests on OS: Windows
+2025-02-18 10:39:28 [main] INFO  BaseClass - Initializing WebDriver for browser: chrome
+2025-02-18 10:39:29 [main] INFO  BaseClass - Local WebDriver setup completed.
+2025-02-18 10:39:29 [main] INFO  BaseClass - Running tests on OS: Windows
+2025-02-18 10:39:29 [main] INFO  BaseClass - Initializing WebDriver for browser: chrome
+2025-02-18 10:39:31 [main] INFO  BaseClass - Local WebDriver setup completed.
+2025-02-18 10:40:14 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\91701\eclipse-workspace\OpencartV121\master.xml
+
+2025-02-18 10:40:15 [main] INFO  BaseClass - Running tests on OS: Windows
+2025-02-18 10:40:15 [main] INFO  BaseClass - Initializing WebDriver for browser: chrome
+2025-02-18 10:40:18 [main] INFO  BaseClass - Local WebDriver setup completed.
+2025-02-18 10:40:18 [main] INFO  TC003_LoginDDT - Fetching login data from Excel...
+2025-02-18 10:40:19 [main] WARN  Utils - The test method 'testCases.TC003_LoginDDT.verify_loginDDT' will be skipped since its data provider 'LoginData' returned an empty array or iterator. 
+2025-02-18 10:40:19 [main] INFO  BaseClass - Running tests on OS: Windows
+2025-02-18 10:40:19 [main] INFO  BaseClass - Initializing WebDriver for browser: chrome
+2025-02-18 10:40:20 [main] INFO  BaseClass - Local WebDriver setup completed.
+2025-02-18 10:40:24 [main] INFO  BaseClass - Running tests on OS: Windows
+2025-02-18 10:40:24 [main] INFO  BaseClass - Initializing WebDriver for browser: chrome
+2025-02-18 10:40:25 [main] INFO  BaseClass - Local WebDriver setup completed.
+2025-02-18 10:42:47 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\91701\eclipse-workspace\OpencartV121\master.xml
+
+2025-02-18 10:42:47 [main] INFO  BaseClass - Running tests on OS: Windows
+2025-02-18 10:42:47 [main] INFO  BaseClass - Initializing WebDriver for browser: chrome
+2025-02-18 10:42:51 [main] INFO  BaseClass - Local WebDriver setup completed.
+2025-02-18 10:42:54 [main] INFO  BaseClass - Browser launched and navigated to URL.
+2025-02-18 10:42:54 [main] INFO  TC003_LoginDDT - Fetching login data from Excel...
+2025-02-18 10:42:55 [main] WARN  Utils - The test method 'testCases.TC003_LoginDDT.verify_loginDDT' will be skipped since its data provider 'LoginData' returned an empty array or iterator. 
+2025-02-18 10:42:55 [main] INFO  BaseClass - Closing browser...
+2025-02-18 10:42:55 [main] INFO  BaseClass - Running tests on OS: Windows
+2025-02-18 10:42:55 [main] INFO  BaseClass - Initializing WebDriver for browser: chrome
+2025-02-18 10:42:56 [main] INFO  BaseClass - Local WebDriver setup completed.
+2025-02-18 10:42:59 [main] INFO  BaseClass - Browser launched and navigated to URL.
+2025-02-18 10:42:59 [main] INFO  BaseClass - ************ Starting TC001_AccountRegistrationTest ************
+2025-02-18 10:43:00 [main] INFO  BaseClass - Navigated to registration page.
+2025-02-18 10:43:02 [main] INFO  BaseClass - Registration form submitted.
+2025-02-18 10:43:03 [main] INFO  BaseClass - Account registration successful.
+2025-02-18 10:43:03 [main] INFO  BaseClass - Closing browser...
+2025-02-18 10:43:03 [main] INFO  BaseClass - Running tests on OS: Windows
+2025-02-18 10:43:03 [main] INFO  BaseClass - Initializing WebDriver for browser: chrome
+2025-02-18 10:43:04 [main] INFO  BaseClass - Local WebDriver setup completed.
+2025-02-18 10:43:06 [main] INFO  BaseClass - Browser launched and navigated to URL.
+2025-02-18 10:43:06 [main] INFO  BaseClass - ************* TC002_LoginTest *************
+2025-02-18 10:43:07 [main] INFO  BaseClass - ************* TC002_Login Test Completed *************
+2025-02-18 10:43:07 [main] INFO  BaseClass - Closing browser...
+2025-02-20 01:18:41 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\91701\eclipse-workspace\OpencartV121\grid-docker.xml
+
+2025-02-20 01:18:42 [main] INFO  BaseClass - Running tests on OS: Linux
+2025-02-20 01:18:42 [main] INFO  BaseClass - Initializing WebDriver for browser: chrome
+2025-02-20 01:18:51 [main] INFO  BaseClass - Local WebDriver initialized.
+2025-02-20 01:18:52 [main] INFO  BaseClass - Browser launched and navigated to application.
+2025-02-20 01:18:52 [main] INFO  TC003_LoginDDT - Fetching login data from Excel...
+2025-02-20 01:18:53 [main] WARN  Utils - The test method 'testCases.TC003_LoginDDT.verify_loginDDT' will be skipped since its data provider 'LoginData' returned an empty array or iterator. 
+2025-02-20 01:18:53 [main] INFO  BaseClass - Closing browser...
+2025-02-20 01:18:54 [main] INFO  BaseClass - Running tests on OS: Linux
+2025-02-20 01:18:54 [main] INFO  BaseClass - Initializing WebDriver for browser: chrome
+2025-02-20 01:18:56 [main] INFO  BaseClass - Local WebDriver initialized.
+2025-02-20 01:18:57 [main] INFO  BaseClass - Browser launched and navigated to application.
+2025-02-20 01:18:57 [main] INFO  BaseClass - ************ Starting TC001_AccountRegistrationTest ************
+2025-02-20 01:18:57 [main] INFO  BaseClass - Navigated to registration page.
+2025-02-20 01:18:59 [main] INFO  BaseClass - Registration form submitted.
+2025-02-20 01:18:59 [main] INFO  BaseClass - Account registration successful.
+2025-02-20 01:18:59 [main] INFO  BaseClass - Closing browser...
+2025-02-20 01:19:00 [main] INFO  BaseClass - Running tests on OS: Linux
+2025-02-20 01:19:00 [main] INFO  BaseClass - Initializing WebDriver for browser: chrome
+2025-02-20 01:19:01 [main] INFO  BaseClass - Local WebDriver initialized.
+2025-02-20 01:19:02 [main] INFO  BaseClass - Browser launched and navigated to application.
+2025-02-20 01:19:02 [main] INFO  BaseClass - ************* TC002_LoginTest *************
+2025-02-20 01:19:04 [main] INFO  BaseClass - ************* TC002_Login Test Completed *************
+2025-02-20 01:19:04 [main] INFO  BaseClass - Closing browser...
+2025-02-20 01:20:38 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\91701\eclipse-workspace\OpencartV121\grid-docker.xml
+
+2025-02-20 01:20:38 [main] INFO  BaseClass - Running tests on OS: Linux
+2025-02-20 01:20:38 [main] INFO  BaseClass - Initializing WebDriver for browser: chrome
+2025-02-20 01:20:41 [main] INFO  BaseClass - Local WebDriver initialized.
+2025-02-20 01:20:42 [main] INFO  BaseClass - Browser launched and navigated to application.
+2025-02-20 01:20:42 [main] INFO  TC003_LoginDDT - Fetching login data from Excel...
+2025-02-20 01:20:44 [main] WARN  Utils - The test method 'testCases.TC003_LoginDDT.verify_loginDDT' will be skipped since its data provider 'LoginData' returned an empty array or iterator. 
+2025-02-20 01:20:44 [main] INFO  BaseClass - Closing browser...
+2025-02-20 01:20:44 [main] INFO  BaseClass - Running tests on OS: Linux
+2025-02-20 01:20:44 [main] INFO  BaseClass - Initializing WebDriver for browser: chrome
+2025-02-20 01:20:46 [main] INFO  BaseClass - Local WebDriver initialized.
+2025-02-20 01:20:47 [main] INFO  BaseClass - Browser launched and navigated to application.
+2025-02-20 01:20:47 [main] INFO  BaseClass - ************ Starting TC001_AccountRegistrationTest ************
+2025-02-20 01:20:48 [main] INFO  BaseClass - Navigated to registration page.
+2025-02-20 01:20:50 [main] INFO  BaseClass - Registration form submitted.
+2025-02-20 01:20:50 [main] INFO  BaseClass - Account registration successful.
+2025-02-20 01:20:50 [main] INFO  BaseClass - Closing browser...
+2025-02-20 01:20:50 [main] INFO  BaseClass - Running tests on OS: Linux
+2025-02-20 01:20:50 [main] INFO  BaseClass - Initializing WebDriver for browser: chrome
+2025-02-20 01:20:52 [main] INFO  BaseClass - Local WebDriver initialized.
+2025-02-20 01:20:53 [main] INFO  BaseClass - Browser launched and navigated to application.
+2025-02-20 01:20:53 [main] INFO  BaseClass - ************* TC002_LoginTest *************
+2025-02-20 01:20:55 [main] INFO  BaseClass - ************* TC002_Login Test Completed *************
+2025-02-20 01:20:55 [main] INFO  BaseClass - Closing browser...
+2025-02-20 01:25:55 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\91701\eclipse-workspace\OpencartV121\grid-docker.xml
+
+2025-02-20 01:25:55 [main] INFO  BaseClass - Execution Environment: local
+2025-02-20 01:25:55 [main] INFO  BaseClass - Running on OS: Linux | Browser: chrome
+2025-02-20 01:25:58 [main] INFO  BaseClass - Local WebDriver initialized.
+2025-02-20 01:25:59 [main] INFO  BaseClass - Navigated to URL: https://tutorialsninja.com/demo/
+2025-02-20 01:25:59 [main] INFO  TC003_LoginDDT - Fetching login data from Excel...
+2025-02-20 01:26:00 [main] WARN  Utils - The test method 'testCases.TC003_LoginDDT.verify_loginDDT' will be skipped since its data provider 'LoginData' returned an empty array or iterator. 
+2025-02-20 01:26:00 [main] INFO  BaseClass - Closing browser...
+2025-02-20 01:26:01 [main] INFO  BaseClass - Execution Environment: local
+2025-02-20 01:26:01 [main] INFO  BaseClass - Running on OS: Linux | Browser: chrome
+2025-02-20 01:26:03 [main] INFO  BaseClass - Local WebDriver initialized.
+2025-02-20 01:26:04 [main] INFO  BaseClass - Navigated to URL: https://tutorialsninja.com/demo/
+2025-02-20 01:26:04 [main] INFO  BaseClass - ************ Starting TC001_AccountRegistrationTest ************
+2025-02-20 01:26:04 [main] INFO  BaseClass - Navigated to registration page.
+2025-02-20 01:26:06 [main] INFO  BaseClass - Registration form submitted.
+2025-02-20 01:26:06 [main] INFO  BaseClass - Account registration successful.
+2025-02-20 01:26:06 [main] INFO  BaseClass - Closing browser...
+2025-02-20 01:26:07 [main] INFO  BaseClass - Execution Environment: local
+2025-02-20 01:26:07 [main] INFO  BaseClass - Running on OS: Linux | Browser: chrome
+2025-02-20 01:26:08 [main] INFO  BaseClass - Local WebDriver initialized.
+2025-02-20 01:26:09 [main] INFO  BaseClass - Navigated to URL: https://tutorialsninja.com/demo/
+2025-02-20 01:26:09 [main] INFO  BaseClass - ************* TC002_LoginTest *************
+2025-02-20 01:26:11 [main] INFO  BaseClass - ************* TC002_Login Test Completed *************
+2025-02-20 01:26:11 [main] INFO  BaseClass - Closing browser...
+2025-02-20 11:03:12 [main] WARN  TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\91701\eclipse-workspace\OpencartV121\grid-docker.xml] otherwise TestNG may fail or not work as expected.
+2025-02-20 11:03:12 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\91701\eclipse-workspace\OpencartV121\grid-docker.xml
+
+2025-02-20 11:03:13 [main] INFO  BaseClass - Execution Environment: local
+2025-02-20 11:03:13 [main] INFO  BaseClass - Running on OS: Linux | Browser: chrome
+2025-02-20 11:03:13 [main] ERROR BaseClass - Only remote execution is supported in this setup.
+2025-02-20 11:03:13 [main] INFO  TC003_LoginDDT - Fetching login data from Excel...
+2025-02-20 11:03:14 [main] WARN  Utils - The test method 'testCases.TC003_LoginDDT.verify_loginDDT' will be skipped since its data provider 'LoginData' returned an empty array or iterator. 
+2025-02-20 11:03:14 [main] INFO  BaseClass - Execution Environment: local
+2025-02-20 11:03:14 [main] INFO  BaseClass - Running on OS: Linux | Browser: chrome
+2025-02-20 11:03:14 [main] ERROR BaseClass - Only remote execution is supported in this setup.
+2025-02-20 11:03:14 [main] INFO  BaseClass - Execution Environment: local
+2025-02-20 11:03:14 [main] INFO  BaseClass - Running on OS: Linux | Browser: chrome
+2025-02-20 11:03:14 [main] ERROR BaseClass - Only remote execution is supported in this setup.
+2025-02-20 11:19:01 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\91701\eclipse-workspace\OpencartV121\grid-docker.xml
+
+2025-02-20 11:19:01 [main] INFO  BaseClass - Execution Environment: local
+2025-02-20 11:19:01 [main] INFO  BaseClass - Running on OS: Linux | Browser: chrome
+2025-02-20 11:19:01 [main] INFO  TC003_LoginDDT - Fetching login data from Excel...
+2025-02-20 11:19:02 [main] WARN  Utils - The test method 'testCases.TC003_LoginDDT.verify_loginDDT' will be skipped since its data provider 'LoginData' returned an empty array or iterator. 
+2025-02-20 11:19:02 [main] INFO  BaseClass - Execution Environment: local
+2025-02-20 11:19:02 [main] INFO  BaseClass - Running on OS: Linux | Browser: chrome
+2025-02-20 11:19:02 [main] INFO  BaseClass - Execution Environment: local
+2025-02-20 11:19:02 [main] INFO  BaseClass - Running on OS: Linux | Browser: chrome
+2025-02-20 11:57:26 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\91701\eclipse-workspace\OpencartV121\grid-docker.xml
+
+2025-02-20 11:57:26 [main] INFO  BaseClass - Execution Environment: remote
+2025-02-20 11:57:26 [main] INFO  BaseClass - Running on OS: Linux | Browser: chrome
+2025-02-20 11:57:26 [main] INFO  BaseClass - Connecting to Selenium Grid at: http://192.168.29.47:4444
+2025-02-20 11:57:30 [main] INFO  BaseClass - Remote WebDriver initialized successfully.
+2025-02-20 11:57:31 [main] INFO  BaseClass - Navigated to URL: https://tutorialsninja.com/demo/
+2025-02-20 11:57:31 [main] INFO  BaseClass - ************ Starting TC001_AccountRegistrationTest ************
+2025-02-20 11:57:31 [main] INFO  BaseClass - Navigated to registration page.
+2025-02-20 11:57:33 [main] INFO  BaseClass - Registration form submitted.
+2025-02-20 11:57:33 [main] INFO  BaseClass - Account registration successful.
+2025-02-20 11:57:33 [main] INFO  BaseClass - Closing browser...
+2025-02-20 11:57:33 [main] INFO  BaseClass - Execution Environment: remote
+2025-02-20 11:57:33 [main] INFO  BaseClass - Running on OS: Linux | Browser: chrome
+2025-02-20 11:57:33 [main] INFO  BaseClass - Connecting to Selenium Grid at: http://192.168.29.47:4444
+2025-02-20 11:57:34 [main] INFO  BaseClass - Remote WebDriver initialized successfully.
+2025-02-20 11:57:35 [main] INFO  BaseClass - Navigated to URL: https://tutorialsninja.com/demo/
+2025-02-20 11:57:35 [main] INFO  BaseClass - ************* TC002_LoginTest *************
+2025-02-20 11:57:36 [main] INFO  BaseClass - ************* TC002_Login Test Completed *************
+2025-02-20 11:57:36 [main] INFO  BaseClass - Closing browser...
+2025-02-20 14:25:24 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\91701\eclipse-workspace\OpencartV121\grid-docker.xml
+
+2025-02-20 14:25:25 [main] INFO  BaseClass - Execution Environment: remote
+2025-02-20 14:25:25 [main] INFO  BaseClass - Running on OS: Linux | Browser: firefox
+2025-02-20 14:25:25 [main] INFO  BaseClass - Connecting to Selenium Grid at: http://192.168.29.47:4444
+2025-02-20 14:25:31 [main] INFO  BaseClass - Remote WebDriver initialized successfully.
+2025-02-20 14:25:31 [main] INFO  BaseClass - Session ID: 03452da3-6498-4bd5-9240-4cd38b572882
+2025-02-20 14:25:33 [main] INFO  BaseClass - Navigated to URL: https://tutorialsninja.com/demo/
+2025-02-20 14:25:33 [main] INFO  BaseClass - ************ Starting TC001_AccountRegistrationTest ************
+2025-02-20 14:25:34 [main] INFO  BaseClass - Navigated to registration page.
+2025-02-20 14:25:36 [main] INFO  BaseClass - Registration form submitted.
+2025-02-20 14:25:36 [main] INFO  BaseClass - Account registration successful.
+2025-02-20 14:25:36 [main] INFO  BaseClass - Closing browser...
+2025-02-20 14:25:37 [main] INFO  BaseClass - Execution Environment: remote
+2025-02-20 14:25:37 [main] INFO  BaseClass - Running on OS: Linux | Browser: firefox
+2025-02-20 14:25:37 [main] INFO  BaseClass - Connecting to Selenium Grid at: http://192.168.29.47:4444
+2025-02-20 14:25:41 [main] INFO  BaseClass - Remote WebDriver initialized successfully.
+2025-02-20 14:25:41 [main] INFO  BaseClass - Session ID: a5d2e909-6651-4455-8e64-c93596187d4d
+2025-02-20 14:25:43 [main] INFO  BaseClass - Navigated to URL: https://tutorialsninja.com/demo/
+2025-02-20 14:25:43 [main] INFO  BaseClass - ************* TC002_LoginTest *************
+2025-02-20 14:25:45 [main] INFO  BaseClass - ************* TC002_Login Test Completed *************
+2025-02-20 14:25:45 [main] INFO  BaseClass - Closing browser...
+2025-02-20 14:26:29 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\91701\eclipse-workspace\OpencartV121\grid-docker.xml
+
+2025-02-20 14:26:29 [main] INFO  BaseClass - Execution Environment: remote
+2025-02-20 14:26:29 [main] INFO  BaseClass - Running on OS: Linux | Browser: firefox
+2025-02-20 14:26:29 [main] INFO  BaseClass - Connecting to Selenium Grid at: http://192.168.29.47:4444
+2025-02-20 14:26:34 [main] INFO  BaseClass - Remote WebDriver initialized successfully.
+2025-02-20 14:26:34 [main] INFO  BaseClass - Session ID: f99960c6-af52-4f3c-b296-b389c5632380
+2025-02-20 14:26:36 [main] INFO  BaseClass - Navigated to URL: https://tutorialsninja.com/demo/
+2025-02-20 14:26:36 [main] INFO  BaseClass - ************ Starting TC001_AccountRegistrationTest ************
+2025-02-20 14:26:37 [main] INFO  BaseClass - Navigated to registration page.
+2025-02-20 14:26:39 [main] INFO  BaseClass - Registration form submitted.
+2025-02-20 14:26:40 [main] INFO  BaseClass - Account registration successful.
+2025-02-20 14:26:40 [main] INFO  BaseClass - Closing browser...
+2025-02-20 14:26:41 [main] INFO  BaseClass - Execution Environment: remote
+2025-02-20 14:26:41 [main] INFO  BaseClass - Running on OS: Linux | Browser: firefox
+2025-02-20 14:26:41 [main] INFO  BaseClass - Connecting to Selenium Grid at: http://192.168.29.47:4444
+2025-02-20 14:26:46 [main] INFO  BaseClass - Remote WebDriver initialized successfully.
+2025-02-20 14:26:46 [main] INFO  BaseClass - Session ID: 2b80c90b-94d6-40bd-8063-d74ed9b9aa54
+2025-02-20 14:26:48 [main] INFO  BaseClass - Navigated to URL: https://tutorialsninja.com/demo/
+2025-02-20 14:26:48 [main] INFO  BaseClass - ************* TC002_LoginTest *************
+2025-02-20 14:26:49 [main] INFO  BaseClass - ************* TC002_Login Test Completed *************
+2025-02-20 14:26:49 [main] INFO  BaseClass - Closing browser...
+2025-02-21 12:52:54 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\91701\eclipse-workspace\OpencartV121\grid-docker.xml
+
+2025-02-21 12:52:54 [main] INFO  BaseClass - Connecting to Selenium Grid at: http://localhost:4444
+2025-02-21 12:52:58 [main] INFO  BaseClass - Remote WebDriver initialized successfully.
+2025-02-21 12:52:58 [main] INFO  BaseClass - Session ID: 37b7578c04f5c26b6be807d0f0ccad22
+2025-02-21 12:52:59 [main] INFO  BaseClass - Navigated to URL: https://tutorialsninja.com/demo/
+2025-02-21 12:52:59 [main] INFO  BaseClass - ************ Starting TC001_AccountRegistrationTest ************
+2025-02-21 12:53:00 [main] INFO  BaseClass - Navigated to registration page.
+2025-02-21 12:53:01 [main] INFO  BaseClass - Registration form submitted.
+2025-02-21 12:53:01 [main] INFO  BaseClass - Account registration successful.
+2025-02-21 12:53:01 [main] INFO  BaseClass - Closing browser...
+2025-02-21 12:53:01 [main] INFO  BaseClass - Connecting to Selenium Grid at: http://localhost:4444
+2025-02-21 12:53:02 [main] INFO  BaseClass - Remote WebDriver initialized successfully.
+2025-02-21 12:53:02 [main] INFO  BaseClass - Session ID: 949ebe8548368b40e903d94f9b0fb665
+2025-02-21 12:53:03 [main] INFO  BaseClass - Navigated to URL: https://tutorialsninja.com/demo/
+2025-02-21 12:53:03 [main] INFO  BaseClass - ************* TC002_LoginTest *************
+2025-02-21 12:53:15 [main] ERROR BaseClass - Exception occurred: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome=132.0.6834.159)
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [949ebe8548368b40e903d94f9b0fb665, findElement {using=link text, value=My Account}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 132.0.6834.159, chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:34225}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://172.20.0.3:4444/sessio..., se:cdpVersion: 132.0.6834.159, se:containerName: 2691f242c126, se:noVncPort: 7900, se:vnc: ws://172.20.0.3:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://172.20.0.3:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 949ebe8548368b40e903d94f9b0fb665
+2025-02-21 12:53:15 [main] INFO  BaseClass - Closing browser...
+2025-02-21 13:05:51 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\91701\eclipse-workspace\OpencartV121\grid-docker.xml
+
+2025-02-21 13:05:52 [main] INFO  BaseClass - Execution Environment: remote
+2025-02-21 13:05:52 [main] INFO  BaseClass - Running on OS: Linux | Browser: chrome
+2025-02-21 13:05:52 [main] INFO  BaseClass - Connecting to Selenium Grid at: http://localhost:4444
+2025-02-21 13:05:54 [main] INFO  BaseClass - Remote WebDriver initialized successfully.
+2025-02-21 13:05:54 [main] INFO  BaseClass - Session ID: a549a316e547832e24063baf59dff6d7
+2025-02-21 13:06:01 [main] INFO  BaseClass - Navigated to URL: https://tutorialsninja.com/demo/
+2025-02-21 13:06:01 [main] INFO  BaseClass - ************ Starting TC001_AccountRegistrationTest ************
+2025-02-21 13:06:02 [main] INFO  BaseClass - Navigated to registration page.
+2025-02-21 13:06:04 [main] INFO  BaseClass - Registration form submitted.
+2025-02-21 13:06:04 [main] INFO  BaseClass - Account registration successful.
+2025-02-21 13:06:04 [main] INFO  BaseClass - Closing browser...
+2025-02-21 13:06:04 [main] INFO  BaseClass - Execution Environment: remote
+2025-02-21 13:06:04 [main] INFO  BaseClass - Running on OS: Linux | Browser: chrome
+2025-02-21 13:06:04 [main] INFO  BaseClass - Connecting to Selenium Grid at: http://localhost:4444
+2025-02-21 13:06:04 [main] INFO  BaseClass - Remote WebDriver initialized successfully.
+2025-02-21 13:06:04 [main] INFO  BaseClass - Session ID: 6797d306fb00f799eceecd844b327dbf
+2025-02-21 13:06:10 [main] INFO  BaseClass - Navigated to URL: https://tutorialsninja.com/demo/
+2025-02-21 13:06:10 [main] INFO  BaseClass - ************* TC002_LoginTest *************
+2025-02-21 13:06:12 [main] INFO  BaseClass - ************* TC002_Login Test Completed *************
+2025-02-21 13:06:12 [main] INFO  BaseClass - Closing browser...
+2025-02-23 10:55:18 [main] INFO  BaseClass - Execution Environment: remote
+2025-02-23 10:55:18 [main] INFO  BaseClass - Running on OS: Windows | Browser: chrome
+2025-02-23 10:55:18 [main] INFO  BaseClass - Connecting to Selenium Grid at: http://localhost:4444
+2025-02-23 10:55:18 [main] ERROR BaseClass - Error initializing remote WebDriver: 
+org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. 
+Host info: host: 'DESKTOP-KCO1LBM', ip: '192.168.109.231'
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [--disable-dev-shm-usage, --no-sandbox, --headless=new, --disable-gpu, --remote-allow-origins=*], extensions: []}}]}]
+Capabilities {browserName: chrome, goog:chromeOptions: {args: [--disable-dev-shm-usage, --no-sandbox, --headless=new, --disable-gpu, --remote-allow-origins=*], extensions: []}}
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:563) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:245) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:174) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:152) ~[selenium-remote-driver-4.28.1.jar:?]
+	at testCases.BaseClass.setup(BaseClass.java:59) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:188) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.10.2.jar:7.10.2]
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:308) [surefire-testng-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:71) [surefire-testng-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113) [surefire-testng-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385) [surefire-booter-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162) [surefire-booter-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507) [surefire-booter-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495) [surefire-booter-3.5.2.jar:3.5.2]
+Caused by: java.io.UncheckedIOException: java.net.ConnectException
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.execute0(JdkHttpClient.java:497) ~[selenium-http-4.28.1.jar:?]
+	at org.openqa.selenium.remote.http.AddSeleniumUserAgent.lambda$apply$0(AddSeleniumUserAgent.java:42) ~[selenium-http-4.28.1.jar:?]
+	at org.openqa.selenium.remote.http.Filter.lambda$andFinally$1(Filter.java:55) ~[selenium-http-4.28.1.jar:?]
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.lambda$executeAsync$1(JdkHttpClient.java:384) ~[selenium-http-4.28.1.jar:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1575) ~[?:?]
+Caused by: java.net.ConnectException
+	at java.net.http/jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:956) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.HttpClientFacade.send(HttpClientFacade.java:133) ~[java.net.http:?]
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.execute0(JdkHttpClient.java:456) ~[selenium-http-4.28.1.jar:?]
+	at org.openqa.selenium.remote.http.AddSeleniumUserAgent.lambda$apply$0(AddSeleniumUserAgent.java:42) ~[selenium-http-4.28.1.jar:?]
+	at org.openqa.selenium.remote.http.Filter.lambda$andFinally$1(Filter.java:55) ~[selenium-http-4.28.1.jar:?]
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.lambda$executeAsync$1(JdkHttpClient.java:384) ~[selenium-http-4.28.1.jar:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1575) ~[?:?]
+Caused by: java.net.ConnectException
+	at java.net.http/jdk.internal.net.http.common.Utils.toConnectException(Utils.java:1082) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.connectAsync(PlainHttpConnection.java:227) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.checkRetryConnect(PlainHttpConnection.java:280) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.lambda$connectAsync$2(PlainHttpConnection.java:238) ~[java.net.http:?]
+	at java.base/java.util.concurrent.CompletableFuture.uniHandle(CompletableFuture.java:978) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniHandle.tryFire(CompletableFuture.java:955) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:554) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1817) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1575) ~[?:?]
+Caused by: java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:204) ~[?:?]
+	at java.base/sun.nio.ch.SocketChannelImpl.connect(SocketChannelImpl.java:958) ~[?:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.lambda$connectAsync$1(PlainHttpConnection.java:210) ~[java.net.http:?]
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:571) ~[?:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.connectAsync(PlainHttpConnection.java:212) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.checkRetryConnect(PlainHttpConnection.java:280) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.lambda$connectAsync$2(PlainHttpConnection.java:238) ~[java.net.http:?]
+	at java.base/java.util.concurrent.CompletableFuture.uniHandle(CompletableFuture.java:978) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniHandle.tryFire(CompletableFuture.java:955) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:554) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1817) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1575) ~[?:?]
+2025-02-23 10:55:18 [main] INFO  BaseClass - Execution Environment: remote
+2025-02-23 10:55:18 [main] INFO  BaseClass - Running on OS: Windows | Browser: chrome
+2025-02-23 10:55:18 [main] INFO  BaseClass - Connecting to Selenium Grid at: http://localhost:4444
+2025-02-23 10:55:19 [main] ERROR BaseClass - Error initializing remote WebDriver: 
+org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. 
+Host info: host: 'DESKTOP-KCO1LBM', ip: '192.168.109.231'
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [--disable-dev-shm-usage, --no-sandbox, --headless=new, --disable-gpu, --remote-allow-origins=*], extensions: []}}]}]
+Capabilities {browserName: chrome, goog:chromeOptions: {args: [--disable-dev-shm-usage, --no-sandbox, --headless=new, --disable-gpu, --remote-allow-origins=*], extensions: []}}
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:563) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:245) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:174) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:152) ~[selenium-remote-driver-4.28.1.jar:?]
+	at testCases.BaseClass.setup(BaseClass.java:59) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:188) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.10.2.jar:7.10.2]
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:308) [surefire-testng-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:71) [surefire-testng-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113) [surefire-testng-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385) [surefire-booter-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162) [surefire-booter-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507) [surefire-booter-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495) [surefire-booter-3.5.2.jar:3.5.2]
+Caused by: java.io.UncheckedIOException: java.net.ConnectException
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.execute0(JdkHttpClient.java:497) ~[selenium-http-4.28.1.jar:?]
+	at org.openqa.selenium.remote.http.AddSeleniumUserAgent.lambda$apply$0(AddSeleniumUserAgent.java:42) ~[selenium-http-4.28.1.jar:?]
+	at org.openqa.selenium.remote.http.Filter.lambda$andFinally$1(Filter.java:55) ~[selenium-http-4.28.1.jar:?]
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.lambda$executeAsync$1(JdkHttpClient.java:384) ~[selenium-http-4.28.1.jar:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1575) ~[?:?]
+Caused by: java.net.ConnectException
+	at java.net.http/jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:956) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.HttpClientFacade.send(HttpClientFacade.java:133) ~[java.net.http:?]
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.execute0(JdkHttpClient.java:456) ~[selenium-http-4.28.1.jar:?]
+	at org.openqa.selenium.remote.http.AddSeleniumUserAgent.lambda$apply$0(AddSeleniumUserAgent.java:42) ~[selenium-http-4.28.1.jar:?]
+	at org.openqa.selenium.remote.http.Filter.lambda$andFinally$1(Filter.java:55) ~[selenium-http-4.28.1.jar:?]
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.lambda$executeAsync$1(JdkHttpClient.java:384) ~[selenium-http-4.28.1.jar:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1575) ~[?:?]
+Caused by: java.net.ConnectException
+	at java.net.http/jdk.internal.net.http.common.Utils.toConnectException(Utils.java:1082) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.connectAsync(PlainHttpConnection.java:227) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.checkRetryConnect(PlainHttpConnection.java:280) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.lambda$connectAsync$2(PlainHttpConnection.java:238) ~[java.net.http:?]
+	at java.base/java.util.concurrent.CompletableFuture.uniHandle(CompletableFuture.java:978) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniHandle.tryFire(CompletableFuture.java:955) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:554) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1817) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1575) ~[?:?]
+Caused by: java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:204) ~[?:?]
+	at java.base/sun.nio.ch.SocketChannelImpl.connect(SocketChannelImpl.java:958) ~[?:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.lambda$connectAsync$1(PlainHttpConnection.java:210) ~[java.net.http:?]
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:571) ~[?:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.connectAsync(PlainHttpConnection.java:212) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.checkRetryConnect(PlainHttpConnection.java:280) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.lambda$connectAsync$2(PlainHttpConnection.java:238) ~[java.net.http:?]
+	at java.base/java.util.concurrent.CompletableFuture.uniHandle(CompletableFuture.java:978) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniHandle.tryFire(CompletableFuture.java:955) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:554) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1817) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1575) ~[?:?]
+2025-02-23 11:00:17 [main] INFO  BaseClass - Execution Environment: remote
+2025-02-23 11:00:17 [main] INFO  BaseClass - Running on OS: Windows | Browser: chrome
+2025-02-23 11:00:17 [main] INFO  BaseClass - Connecting to Selenium Grid at: http://localhost:4444
+2025-02-23 11:00:20 [main] INFO  BaseClass - Remote WebDriver initialized successfully.
+2025-02-23 11:00:20 [main] INFO  BaseClass - Session ID: 72262b2b603fe1f934065096f2ea5d02
+2025-02-23 11:00:27 [main] INFO  BaseClass - Navigated to URL: https://tutorialsninja.com/demo/
+2025-02-23 11:00:27 [main] INFO  BaseClass - ************ Starting TC001_AccountRegistrationTest ************
+2025-02-23 11:00:28 [main] INFO  BaseClass - Navigated to registration page.
+2025-02-23 11:00:30 [main] INFO  BaseClass - Registration form submitted.
+2025-02-23 11:00:30 [main] INFO  BaseClass - Account registration successful.
+2025-02-23 11:00:30 [main] INFO  BaseClass - Closing browser...
+2025-02-23 11:00:30 [main] INFO  BaseClass - Execution Environment: remote
+2025-02-23 11:00:30 [main] INFO  BaseClass - Running on OS: Windows | Browser: chrome
+2025-02-23 11:00:30 [main] INFO  BaseClass - Connecting to Selenium Grid at: http://localhost:4444
+2025-02-23 11:00:31 [main] INFO  BaseClass - Remote WebDriver initialized successfully.
+2025-02-23 11:00:31 [main] INFO  BaseClass - Session ID: 685ccb8eb609189c015c17799544c61e
+2025-02-23 11:00:37 [main] INFO  BaseClass - Navigated to URL: https://tutorialsninja.com/demo/
+2025-02-23 11:00:37 [main] INFO  BaseClass - ************* TC002_LoginTest *************
+2025-02-23 11:00:39 [main] INFO  BaseClass - ************* TC002_Login Test Completed *************
+2025-02-23 11:00:39 [main] INFO  BaseClass - Closing browser...
+2025-02-23 11:37:51 [main] INFO  BaseClass - Execution Environment: remote
+2025-02-23 11:37:51 [main] INFO  BaseClass - Running on OS: Windows | Browser: chrome
+2025-02-23 11:37:51 [main] INFO  BaseClass - Connecting to Selenium Grid at: http://localhost:4444
+2025-02-23 11:37:54 [main] INFO  BaseClass - Remote WebDriver initialized successfully.
+2025-02-23 11:37:54 [main] INFO  BaseClass - Session ID: 1c3bda2c3c780ab0d05ac3f4c67f9288
+2025-02-23 11:38:01 [main] INFO  BaseClass - Navigated to URL: https://tutorialsninja.com/demo/
+2025-02-23 11:38:01 [main] INFO  BaseClass - ************ Starting TC001_AccountRegistrationTest ************
+2025-02-23 11:38:02 [main] INFO  BaseClass - Navigated to registration page.
+2025-02-23 11:38:04 [main] INFO  BaseClass - Registration form submitted.
+2025-02-23 11:38:05 [main] INFO  BaseClass - Account registration successful.
+2025-02-23 11:38:05 [main] INFO  BaseClass - Closing browser...
+2025-02-23 11:38:05 [main] INFO  BaseClass - Execution Environment: remote
+2025-02-23 11:38:05 [main] INFO  BaseClass - Running on OS: Windows | Browser: chrome
+2025-02-23 11:38:05 [main] INFO  BaseClass - Connecting to Selenium Grid at: http://localhost:4444
+2025-02-23 11:38:05 [main] INFO  BaseClass - Remote WebDriver initialized successfully.
+2025-02-23 11:38:05 [main] INFO  BaseClass - Session ID: 8e6ec1ff63340c5b970334e4c7f24920
+2025-02-23 11:38:12 [main] INFO  BaseClass - Navigated to URL: https://tutorialsninja.com/demo/
+2025-02-23 11:38:12 [main] INFO  BaseClass - ************* TC002_LoginTest *************
+2025-02-23 11:38:14 [main] INFO  BaseClass - ************* TC002_Login Test Completed *************
+2025-02-23 11:38:14 [main] INFO  BaseClass - Closing browser...
+2025-02-23 14:18:50 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\91701\eclipse-workspace\OpencartV121\master.xml
+
+2025-02-23 14:18:50 [main] INFO  BaseClass - Execution Environment: remote
+2025-02-23 14:18:50 [main] INFO  BaseClass - Running on OS: Windows | Browser: chrome
+2025-02-23 14:18:50 [main] INFO  BaseClass - Connecting to Selenium Grid at: http://localhost:4444
+2025-02-23 14:18:54 [main] INFO  BaseClass - Remote WebDriver initialized successfully.
+2025-02-23 14:18:55 [main] INFO  BaseClass - Navigated to URL: https://tutorialsninja.com/demo/
+2025-02-23 14:18:55 [main] INFO  BaseClass - ************ Starting TC001_AccountRegistrationTest ************
+2025-02-23 14:18:56 [main] INFO  BaseClass - Navigated to registration page.
+2025-02-23 14:18:57 [main] INFO  BaseClass - Registration form submitted.
+2025-02-23 14:18:57 [main] INFO  BaseClass - Account registration successful.
+2025-02-23 14:18:57 [main] INFO  BaseClass - Closing browser...
+2025-02-23 14:18:58 [main] INFO  BaseClass - Execution Environment: remote
+2025-02-23 14:18:58 [main] INFO  BaseClass - Running on OS: Windows | Browser: chrome
+2025-02-23 14:18:58 [main] INFO  BaseClass - Connecting to Selenium Grid at: http://localhost:4444
+2025-02-23 14:18:58 [main] INFO  BaseClass - Remote WebDriver initialized successfully.
+2025-02-23 14:18:59 [main] INFO  BaseClass - Navigated to URL: https://tutorialsninja.com/demo/
+2025-02-23 14:18:59 [main] INFO  BaseClass - ************* TC002_LoginTest *************
+2025-02-23 14:19:01 [main] INFO  BaseClass - ************* TC002_Login Test Completed *************
+2025-02-23 14:19:01 [main] INFO  BaseClass - Closing browser...
+2025-02-23 14:20:40 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\91701\eclipse-workspace\OpencartV121\master.xml
+
+2025-02-23 14:20:40 [main] INFO  BaseClass - Execution Environment: remote
+2025-02-23 14:20:40 [main] INFO  BaseClass - Running on OS: Windows | Browser: chrome
+2025-02-23 14:20:40 [main] INFO  BaseClass - Connecting to Selenium Grid at: http://localhost:4444
+2025-02-23 14:20:42 [main] INFO  BaseClass - Remote WebDriver initialized successfully.
+2025-02-23 14:20:43 [main] INFO  BaseClass - Navigated to URL: https://tutorialsninja.com/demo/
+2025-02-23 14:20:43 [main] INFO  BaseClass - ************ Starting TC001_AccountRegistrationTest ************
+2025-02-23 14:20:43 [main] INFO  BaseClass - Navigated to registration page.
+2025-02-23 14:20:45 [main] INFO  BaseClass - Registration form submitted.
+2025-02-23 14:20:45 [main] INFO  BaseClass - Account registration successful.
+2025-02-23 14:20:45 [main] INFO  BaseClass - Closing browser...
+2025-02-23 14:20:45 [main] INFO  BaseClass - Execution Environment: remote
+2025-02-23 14:20:45 [main] INFO  BaseClass - Running on OS: Windows | Browser: chrome
+2025-02-23 14:20:45 [main] INFO  BaseClass - Connecting to Selenium Grid at: http://localhost:4444
+2025-02-23 14:20:45 [main] INFO  BaseClass - Remote WebDriver initialized successfully.
+2025-02-23 14:20:47 [main] INFO  BaseClass - Navigated to URL: https://tutorialsninja.com/demo/
+2025-02-23 14:20:47 [main] INFO  BaseClass - ************* TC002_LoginTest *************
+2025-02-23 14:20:49 [main] INFO  BaseClass - ************* TC002_Login Test Completed *************
+2025-02-23 14:20:49 [main] INFO  BaseClass - Closing browser...
+2025-02-23 14:26:26 [main] INFO  BaseClass - Execution Environment: remote
+2025-02-23 14:26:26 [main] INFO  BaseClass - Running on OS: Windows | Browser: chrome
+2025-02-23 14:26:26 [main] INFO  BaseClass - Connecting to Selenium Grid at: http://localhost:4444
+2025-02-23 14:26:27 [main] INFO  BaseClass - Remote WebDriver initialized successfully.
+2025-02-23 14:26:29 [main] INFO  BaseClass - Navigated to URL: https://tutorialsninja.com/demo/
+2025-02-23 14:26:29 [main] INFO  BaseClass - ************ Starting TC001_AccountRegistrationTest ************
+2025-02-23 14:26:30 [main] INFO  BaseClass - Navigated to registration page.
+2025-02-23 14:26:32 [main] INFO  BaseClass - Registration form submitted.
+2025-02-23 14:26:32 [main] INFO  BaseClass - Account registration successful.
+2025-02-23 14:26:32 [main] INFO  BaseClass - Closing browser...
+2025-02-23 14:26:32 [main] INFO  BaseClass - Execution Environment: remote
+2025-02-23 14:26:32 [main] INFO  BaseClass - Running on OS: Windows | Browser: chrome
+2025-02-23 14:26:32 [main] INFO  BaseClass - Connecting to Selenium Grid at: http://localhost:4444
+2025-02-23 14:26:32 [main] INFO  BaseClass - Remote WebDriver initialized successfully.
+2025-02-23 14:26:33 [main] INFO  BaseClass - Navigated to URL: https://tutorialsninja.com/demo/
+2025-02-23 14:26:33 [main] INFO  BaseClass - ************* TC002_LoginTest *************
+2025-02-23 14:26:35 [main] INFO  BaseClass - ************* TC002_Login Test Completed *************
+2025-02-23 14:26:35 [main] INFO  BaseClass - Closing browser...
+2025-02-23 14:46:29 [main] INFO  BaseClass - Execution Environment: remote
+2025-02-23 14:46:29 [main] INFO  BaseClass - Running on OS: Windows | Browser: chrome
+2025-02-23 14:46:29 [main] INFO  BaseClass - Connecting to Selenium Grid at: http://localhost:4444
+2025-02-23 14:46:32 [main] INFO  BaseClass - Remote WebDriver initialized successfully.
+2025-02-23 14:46:34 [main] INFO  BaseClass - Navigated to URL: https://tutorialsninja.com/demo/
+2025-02-23 14:46:34 [main] INFO  BaseClass - ************ Starting TC001_AccountRegistrationTest ************
+2025-02-23 14:46:35 [main] INFO  BaseClass - Navigated to registration page.
+2025-02-23 14:46:37 [main] INFO  BaseClass - Registration form submitted.
+2025-02-23 14:46:37 [main] INFO  BaseClass - Account registration successful.
+2025-02-23 14:46:37 [main] INFO  BaseClass - Closing browser...
+2025-02-23 14:46:37 [main] INFO  BaseClass - Execution Environment: remote
+2025-02-23 14:46:37 [main] INFO  BaseClass - Running on OS: Windows | Browser: chrome
+2025-02-23 14:46:37 [main] INFO  BaseClass - Connecting to Selenium Grid at: http://localhost:4444
+2025-02-23 14:46:38 [main] INFO  BaseClass - Remote WebDriver initialized successfully.
+2025-02-23 14:46:39 [main] INFO  BaseClass - Navigated to URL: https://tutorialsninja.com/demo/
+2025-02-23 14:46:39 [main] INFO  BaseClass - ************* TC002_LoginTest *************
+2025-02-23 14:46:41 [main] INFO  BaseClass - ************* TC002_Login Test Completed *************
+2025-02-23 14:46:41 [main] INFO  BaseClass - Closing browser...

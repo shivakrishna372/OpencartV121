@@ -1,0 +1,24 @@
+<suite name="Master Suite" thread-count="5">
+    <!-- Add listener to enable Extent Reports -->
+    <listeners>
+        <listener class-name="utilities.ExtentReportManager"/>
+    </listeners>
+
+    <test name="Test">
+        <parameter name="os" value="windows"/>
+        <parameter name="browser" value="chrome"/>
+        <groups>
+            <run>
+                <include name="Master"/> 
+                <!-- <include name="Regression"/> -->
+                <!-- <include name="DataDriven"/> -->
+                <!--<include name="Master"/>-->
+            </run>
+        </groups>
+        <classes>
+            <class name="testCases.TC001_AccountRegistrationTest"/>
+            <class name="testCases.TC002_LoginTest"/>
+            <!-- <class name="testCases.TC003_LoginDDT"/> -->
+        </classes>
+    </test>
+</suite>
